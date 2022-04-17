@@ -1,4 +1,6 @@
+#!/usr/bin/env python3
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
+import fileinput
 
 
 def check(text):
@@ -11,7 +13,11 @@ def check(text):
 
 
 if __name__ == "__main__":
-    model = MBartForConditionalGeneration.from_pretrained("output/checkpoint-1000")
-    tokenizer = MBart50TokenizerFast.from_pretrained("output/checkpoint-1000", src_lang="uk_UA", tgt_lang="uk_UA")
+    model = "./output/checkpoint-15000"
+    tokenizer = MBart50TokenizerFast.from_pretrained("facebook/mbart-large-50", src_lang="uk_UA", tgt_lang="uk_UA")
+    model = MBartForConditionalGeneration.from_pretrained(model)
 
     check("привіт як твої справи")
+
+    for line in fileinput.input():
+        print(check(line))
