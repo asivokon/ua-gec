@@ -106,6 +106,10 @@ class DataTrainingArguments:
     source_lang: str = field(default=None, metadata={"help": "Source language id for translation."})
     target_lang: str = field(default=None, metadata={"help": "Target language id for translation."})
 
+    mbart_source_lang: str = field(default=None, metadata={"help": "mBART source language id for translation."})
+    mbart_target_lang: str = field(default=None, metadata={"help": "mBART target language id for translation."})
+
+
     dataset_name: Optional[str] = field(
         default=None, metadata={"help": "The name of the dataset to use (via the datasets library)."}
     )
@@ -387,13 +391,13 @@ def main():
     # For translation we set the codes of our source and target languages (only useful for mBART, the others will
     # ignore those attributes).
     if isinstance(tokenizer, tuple(MULTILINGUAL_TOKENIZERS)):
-        assert data_args.target_lang is not None and data_args.source_lang is not None, (
-            f"{tokenizer.__class__.__name__} is a multilingual tokenizer which requires --source_lang and "
-            "--target_lang arguments."
+        assert data_args.mbart_target_lang is not None and data_args.mbart_source_lang is not None, (
+            f"{tokenizer.__class__.__name__} is a multilingual tokenizer which requires --mbart_source_lang and "
+            "--mbart_target_lang arguments."
         )
 
-        tokenizer.src_lang = data_args.source_lang
-        tokenizer.tgt_lang = data_args.target_lang
+        tokenizer.src_lang = data_args.mbart_source_lang
+        tokenizer.tgt_lang = data_args.mbart_target_lang
 
         # For multilingual translation models like mBART-50 and M2M100 we need to force the target language token
         # as the first generated token. We ask the user to explicitly provide this as --forced_bos_token argument.

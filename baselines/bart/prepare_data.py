@@ -52,7 +52,7 @@ def write_jsonlines(src_lines, tgt_lines, out_path):
                     "src": src,
                     "tgt": tgt,
                 }
-            })
+            }, ensure_ascii=False)
             f_out.write(jsonline + "\n")
 
 
