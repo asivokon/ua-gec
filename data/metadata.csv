@@ -1,19 +1,16 @@
 id,author_id,is_native,region,gender,occupation,submission_type,source_language,annotator_id,partition,is_sensitive
 0000,34fdde49,0,Харківська,Чоловіча,Технічна,text_donation,,1 2,train,0
-0001,fc266628,1,Хмельницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 0002,3bff6cb6,1,Львівська,Чоловіча,Технічна,translation,en,1 2,test,0
 0003,43dcd8a9,1,Київ,Жіноча,Природнича,translation,en,1,train,0
 0004,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1 2,train,0
 0005,530a649a,1,Львівська,Чоловіча,Технічна,text_donation,,1 2,train,0
 0006,446b08a9,0,AP Крим,Жіноча,Технічна,text_donation,,1 2,test,0
 0007,80f62b7f,1,Івано-Франківська,Чоловіча,Гуманітарна,essay,,1,train,0
-0008,22ce04b3,0,Дніпропетровська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0009,664c8b34,1,Львівська,Жіноча,Технічна,essay,,1,train,0
 0010,79642d77,1,Київ,Жіноча,Технічна,translation,en,1,train,0
 0011,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0012,280f22ee,1,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0013,d8e8726f,0,Київ,Жіноча,Інше,translation,en,1 2,test,0
-0014,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 0015,4e37d03d,1,Львівська,Жіноча,Інше,translation,pl,1 2,test,0
 0016,85dbd996,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,train,0
 0017,03a6121b,1,Київ,Чоловіча,Технічна,essay,,1 2,test,0
@@ -22,7 +19,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0020,f1610436,0,Донецька,Жіноча,Технічна,translation,en,1,train,0
 0021,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0022,ce29bcd8,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
-0023,8f2b88d2,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 0024,6437d852,0,Луганська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0025,7cb42545,1,Львівська,Жіноча,Гуманітарна,translation,en,1,train,0
 0026,de160468,1,Львівська,Жіноча,Гуманітарна,translation,en,1,train,0
@@ -30,31 +26,22 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0028,74600947,1,Дніпропетровська,Жіноча,Інше,text_donation,,1 2,test,0
 0029,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0030,25c02efd,1,Житомирська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0031,9634dea9,1,Дніпропетровська,Жіноча,Технічна,translation,ru,1,train,0
-0032,d5db703f,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0033,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0034,5704ca3c,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0035,a76f71d5,1,Тернопільська,Чоловіча,Технічна,essay,,1 2,test,0
-0036,60d85da8,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0037,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0038,f75e3aff,1,Львівська,Жіноча,Природнича,translation,en,1,train,0
-0039,a1f432dd,0,Донецька,Жіноча,Гуманітарна,translation,ru,1,train,0
 0040,a182411c,1,Черкаська,Жіноча,Технічна,essay,,1,train,0
-0041,d2f0062a,0,Полтавська,Чоловіча,Технічна,translation,ru,1,train,0
 0042,cb217b6d,1,Львівська,Чоловіча,Технічна,translation,de,1,train,0
 0043,0af5300a,0,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-0044,81bb6a1d,1,Івано-Франківська,Жіноча,Інше,translation,ru,1,train,0
 0045,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0046,f5b7fd03,1,Київ,Чоловіча,Технічна,text_donation,,1,train,1
 0047,ce29bcd8,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
-0048,b13100a2,1,Київська,Чоловіча,Інше,translation,ru,1,train,0
-0049,70abe11f,0,Дніпропетровська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0050,85dbd996,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0051,965e3649,0,Харківська,Чоловіча,Технічна,translation,en,1,train,0
 0052,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0053,76333551,1,Київ,Жіноча,Інше,text_donation,,1,train,0
 0054,8529e2cb,1,Тернопільська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-0055,472e426c,1,Київ,Жіноча,Природнича,translation,ru,1,train,0
 0056,c7bfe8b4,1,Львівська,Жіноча,Інше,translation,en,1,train,0
 0057,97fb0c6e,1,Сумська,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0058,d8a99deb,0,Київ,Чоловіча,Технічна,text_donation,,1,train,0
@@ -65,13 +52,11 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0063,621651b1,1,Львівська,Жіноча,Інше,text_donation,,1,train,0
 0064,c7f8022c,0,Київ,Жіноча,Гуманітарна,essay,,1,train,0
 0065,b7db657c,0,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-0066,b13100a2,1,Київська,Чоловіча,Інше,translation,ru,1,train,0
 0067,2e3b24a0,0,Київ,Жіноча,Технічна,translation,en,1,train,0
 0068,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0069,4076a7e5,0,Одеська,Чоловіча,Природнича,text_donation,,1,train,0
 0070,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0071,6bfc3b77,1,Київ,Чоловіча,Технічна,text_donation,,1,train,0
-0072,141e6b0e,1,Київ,Жіноча,Інше,translation,ru,1,train,0
 0073,abba680b,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0074,dfaca6b5,1,Дніпропетровська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0075,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
@@ -86,10 +71,8 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0084,d3cf9a72,1,Київ,Жіноча,Технічна,translation,en,1,train,0
 0085,9ad2992d,0,Черкаська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0086,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0087,6d6f6b40,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0088,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0089,cf1af4bf,1,Харківська,Чоловіча,Природнича,translation,en,1,train,0
-0090,eb6c09cb,1,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0091,ce29bcd8,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
 0092,8529e2cb,1,Тернопільська,Чоловіча,Гуманітарна,text_donation,,1,train,0
 0093,1c3e9bdd,0,Київ,Чоловіча,Технічна,essay,,1,train,0
@@ -105,11 +88,9 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0103,d6900217,1,Рівненська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0104,6bfc3b77,1,Київ,Чоловіча,Технічна,text_donation,,1,train,1
 0105,03e9252b,1,Львівська,Чоловіча,Технічна,translation,en,1 2,test,0
-0106,06e1a47b,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0107,6786758f,0,Сумська,Чоловіча,Природнича,text_donation,,1,train,0
 0108,7e2660da,1,Львівська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0109,4e37d03d,1,Львівська,Жіноча,Інше,translation,en,1 2,test,0
-0110,e919e97e,0,Київ,Чоловіча,Технічна,translation,ru,1,train,0
 0111,8363e6be,1,Львівська,Жіноча,Технічна,translation,en,1 2,test,0
 0112,8f2b88d2,1,Вінницька,Жіноча,Гуманітарна,text_donation,,1,train,0
 0113,34fdde49,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
@@ -133,10 +114,8 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0131,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1 2,train,0
 0132,d5db703f,0,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0133,c50ba9c8,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
-0134,adb56b85,1,Вінницька,Чоловіча,Технічна,translation,ru,1,train,0
 0135,645dd7e5,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0136,60d85da8,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-0137,f789694c,1,Івано-Франківська,Жіноча,Природнича,translation,ru,1,train,0
 0138,f14e5982,0,Дніпропетровська,Жіноча,Гуманітарна,translation,en,1,train,0
 0139,022fe3be,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0140,547b09d2,1,Тернопільська,Жіноча,Технічна,text_donation,,1,train,0
@@ -144,10 +123,8 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0142,5a6b7e51,1,Рівненська,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0143,fb68f16f,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 0144,dfaca6b5,1,Дніпропетровська,Чоловіча,Технічна,text_donation,,1 2,test,0
-0145,7cdca324,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0146,a76f71d5,1,Тернопільська,Чоловіча,Технічна,translation,en,1 2,test,0
 0147,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-0148,8b8c26b3,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0149,6060855a,1,Львівська,Жіноча,Інше,translation,en,1,train,0
 0150,f5b7fd03,1,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0151,78459886,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
@@ -155,7 +132,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0153,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0154,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0155,1f01c390,0,Харківська,Жіноча,Гуманітарна,text_donation,,1 2,test,0
-0156,f0749eb4,1,Хмельницька,Жіноча,Технічна,translation,ru,1,train,0
 0157,280f22ee,1,Київ,Чоловіча,Технічна,text_donation,,1 2,train,0
 0158,27c8c915,0,Київ,Інше,Технічна,translation,en,1,train,0
 0159,8966edb3,0,AP Крим,Жіноча,Технічна,essay,,1,train,0
@@ -168,7 +144,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0166,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0167,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1 2,train,0
 0168,20976feb,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-0169,25c02efd,1,Житомирська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0170,cf6418c7,1,Львівська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0171,f789694c,1,Івано-Франківська,Жіноча,Природнича,essay,,1,train,0
 0172,2d2dca7d,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
@@ -176,7 +151,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0174,d8a99deb,0,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0175,9ad2992d,0,Черкаська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0176,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
-0177,6e4f43bf,0,AP Крим,Жіноча,Технічна,translation,ru,1 2,test,0
 0178,ce29bcd8,1,Львівська,Жіноча,Технічна,text_donation,,1 2,train,0
 0179,ccbe1f8e,1,Тернопільська,Чоловіча,Технічна,translation,en,1,train,0
 0180,250b4c3b,1,Тернопільська,Чоловіча,Технічна,translation,en,1 2,test,0
@@ -195,15 +169,12 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0193,48dd3c8a,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 0194,c1d81ee9,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0195,48633040,1,Хмельницька,Жіноча,Інше,translation,en,1,train,0
-0196,e1144cce,1,Сумська,Жіноча,Гуманітарна,translation,ru,1 2,test,0
 0197,85dbd996,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,train,0
 0198,f539476d,0,Київ,Чоловіча,Технічна,text_donation,,1 2,test,0
 0199,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
-0200,b44e2b47,0,Харківська,Жіноча,Технічна,translation,ru,1,train,0
 0201,e91f0197,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0202,97fb0c6e,1,Сумська,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0203,6d3c0e38,1,Сумська,Жіноча,Технічна,essay,,1 2,test,0
-0204,41b12b0b,1,Тернопільська,Жіноча,Інше,translation,ru,1,train,0
 0205,404691ee,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0206,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1 2,train,0
 0207,2d2dca7d,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
@@ -211,9 +182,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0209,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1 2,train,0
 0210,332fdcde,1,Київ,Чоловіча,Технічна,translation,en,1 2,test,0
 0211,9fdefd68,1,Київ,Чоловіча,Гуманітарна,text_donation,,1 2,test,0
-0212,c7816e25,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1 2,test,0
-0213,94ac8f6b,1,Львівська,Жіноча,Гуманітарна,translation,ru,1 2,test,0
-0214,c312370e,1,Івано-Франківська,Жіноча,Інше,translation,ru,1 2,test,0
 0215,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0216,9ad2992d,0,Черкаська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0217,4e37d03d,1,Львівська,Жіноча,Інше,translation,en,1 2,test,0
@@ -228,15 +196,11 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0226,86c54854,0,Дніпропетровська,Чоловіча,Інше,text_donation,,1,train,0
 0227,09da7bb2,1,Львівська,Жіноча,Технічна,translation,en,1,train,0
 0228,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
-0229,cf389079,1,Харківська,Жіноча,Гуманітарна,translation,ru,1,train,0
-0230,c91a181e,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0231,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0232,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0233,25c02efd,1,Житомирська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0234,313bcc2c,0,Харківська,Чоловіча,Гуманітарна,translation,ru,1,train,0
 0235,52419849,1,Херсонська,Чоловіча,Технічна,text_donation,,1,train,0
 0236,7367e1a8,1,Миколаївська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-0237,acf2495b,1,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0238,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0239,9a34f695,1,Львівська,Чоловіча,Інше,translation,en,1,train,0
 0240,8e065803,1,Чернігівська,Чоловіча,Технічна,text_donation,,1,train,0
@@ -249,7 +213,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0247,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0248,9a41fcd9,0,Сумська,Чоловіча,Технічна,text_donation,,1,train,0
 0249,8656e9a1,1,Київ,Чоловіча,Технічна,text_donation,,1,train,0
-0250,2c2e196d,0,Дніпропетровська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0251,6a314fbc,1,Київ,Жіноча,Природнича,text_donation,,1,train,0
 0252,446b08a9,0,AP Крим,Жіноча,Технічна,text_donation,,1 2,test,0
 0253,b753d5c4,0,Київ,Чоловіча,Технічна,text_donation,,1 2,test,0
@@ -261,14 +224,11 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0259,ce29bcd8,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
 0260,2d2dca7d,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0261,76333551,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-0262,50b773ed,1,Рівненська,Жіноча,Інше,translation,ru,1,train,0
 0263,bad8123d,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 0264,0e718862,1,Полтавська,Чоловіча,Гуманітарна,text_donation,,1 2,test,0
 0265,60d85da8,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,train,0
-0266,b13100a2,1,Київська,Чоловіча,Інше,translation,ru,1 2,train,0
 0267,4820c0ef,1,Львівська,Чоловіча,Технічна,translation,en,1 2,test,0
 0268,0ed57314,1,Львівська,Жіноча,Гуманітарна,translation,en,1 2,test,0
-0269,8b44147b,1,Київ,Жіноча,Інше,translation,ru,1,train,0
 0270,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0271,a2f617a2,1,Сумська,Жіноча,Інше,text_donation,,1,train,0
 0272,8e065803,1,Чернігівська,Чоловіча,Технічна,text_donation,,1,train,0
@@ -288,7 +248,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0286,c612dc47,1,Одеська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0287,85dbd996,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,train,0
 0288,a4f8d8e0,1,Дніпропетровська,Жіноча,Технічна,essay,,1,train,0
-0289,7357579c,0,Київ,Чоловіча,Технічна,translation,ru,1,train,0
 0290,3115cb61,1,Тернопільська,Чоловіча,Технічна,translation,en,1 2,test,0
 0291,dfaca6b5,1,Дніпропетровська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0292,25c02efd,1,Житомирська,Жіноча,Гуманітарна,essay,,1,train,0
@@ -304,17 +263,13 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0302,141e6b0e,1,Київ,Жіноча,Інше,essay,,1,train,0
 0303,d8c789c7,0,Київ,Чоловіча,Технічна,translation,en,1 2,test,0
 0304,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1 2,train,0
-0305,4e37d03d,1,Львівська,Жіноча,Інше,translation,ru,1 2,test,0
-0306,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 0307,e634fd05,1,Київ,Жіноча,Гуманітарна,essay,,1,train,0
 0308,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0309,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0310,982114fa,0,Київ,Жіноча,Технічна,translation,en,1,train,0
-0311,d5db703f,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0312,2e9a76d2,0,Інше,Жіноча,Гуманітарна,translation,en,1,train,0
 0313,2a807365,1,Хмельницька,Чоловіча,Природнича,text_donation,,1,train,0
 0314,8529e2cb,1,Тернопільська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-0315,4b45825c,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0316,99607234,1,Чернігівська,Жіноча,Гуманітарна,translation,en,1,train,0
 0317,b753d5c4,0,Київ,Чоловіча,Технічна,text_donation,,1 2,test,0
 0318,1a2d0d0d,1,Київ,Чоловіча,Гуманітарна,text_donation,,1,train,0
@@ -322,33 +277,26 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0320,74600947,1,Дніпропетровська,Жіноча,Інше,text_donation,,1 2,test,0
 0321,45d7ec9c,1,Київська,Жіноча,Гуманітарна,translation,en,1,train,0
 0322,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1 2,train,0
-0323,3d461416,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 0324,62fc17be,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
-0325,b13100a2,1,Київська,Чоловіча,Інше,translation,ru,1,train,0
 0326,60237421,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
 0327,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1 2,train,0
 0328,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1 2,train,0
 0329,8837aa3e,0,Сумська,Жіноча,Гуманітарна,translation,de,1,train,0
 0330,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0331,e46698ef,1,Львівська,Чоловіча,Технічна,translation,en,1 2,test,0
-0332,71645a74,1,Сумська,Чоловіча,Природнича,translation,ru,1,train,0
-0333,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 0334,fc407936,1,Івано-Франківська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0335,74600947,1,Дніпропетровська,Жіноча,Інше,text_donation,,1 2,test,0
 0336,9ad2992d,0,Черкаська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0337,51fb3349,1,Донецька,Жіноча,Інше,translation,en,1,train,0
 0338,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0339,6d3c0e38,1,Сумська,Жіноча,Технічна,translation,ru,1 2,test,0
 0340,ab7d001d,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0341,f9891093,1,Львівська,Чоловіча,Технічна,essay,,1,train,0
-0342,aab23c4d,1,Хмельницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 0343,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0344,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0345,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0346,0be877e1,1,Волинська,Жіноча,Інше,translation,en,1,train,0
 0347,04953554,1,Запорізька,Чоловіча,Гуманітарна,text_donation,,1,train,0
 0348,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-0349,0683cb12,0,Київ,Жіноча,Технічна,translation,ru,1,train,1
 0350,172605f9,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0351,85623d95,1,Рівненська,Жіноча,Гуманітарна,translation,en,1,train,0
 0352,9ad2992d,0,Черкаська,Чоловіча,Технічна,text_donation,,1 2,test,0
@@ -362,9 +310,7 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0360,f4abfebe,1,Кіровоградська,Жіноча,Інше,text_donation,,1,train,0
 0361,4d18b647,1,Львівська,Чоловіча,Гуманітарна,translation,en,1,train,0
 0362,3468afba,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
-0363,79dfaf31,1,Київська,Жіноча,Технічна,translation,ru,1,train,0
 0364,6930ca42,1,Дніпропетровська,Жіноча,Інше,translation,en,1,train,0
-0365,a69c0c1c,0,Київ,Чоловіча,Гуманітарна,translation,ru,1,train,0
 0366,b976f82e,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0367,63399ed0,1,Київ,Чоловіча,Гуманітарна,translation,en,1,train,0
 0368,b82ee146,0,Дніпропетровська,Жіноча,Технічна,translation,en,1,train,0
@@ -391,42 +337,33 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0389,e91f0197,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0390,d8a99deb,0,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0391,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
-0392,204719e3,1,Вінницька,Жіноча,Інше,translation,ru,1,train,0
 0393,20976feb,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0394,4076a7e5,0,Одеська,Чоловіча,Природнича,text_donation,,1,train,0
-0395,072115d8,1,Тернопільська,Жіноча,Технічна,translation,ru,1,train,0
 0396,62fc17be,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0397,fd27e005,1,Львівська,Чоловіча,Інше,translation,en,1,train,0
-0398,168afe4c,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0399,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0400,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0401,bdf97893,1,Львівська,Чоловіча,Інше,translation,en,1,train,0
 0402,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0403,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0404,c5ba9f5e,0,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
-0405,172605f9,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0406,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0407,7d30d6b7,1,Київ,Чоловіча,Природнича,text_donation,,1 2,test,0
 0408,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
-0409,187966ed,0,Вінницька,Чоловіча,Технічна,translation,ru,1,train,0
 0410,172605f9,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0411,db488def,0,Волинська,Чоловіча,Технічна,translation,en,1,train,0
 0412,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0413,a4508265,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0414,abba680b,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0415,f609d158,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
-0416,b90a0a03,1,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0417,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1 2,train,0
 0418,48f0d1bd,1,Волинська,Чоловіча,Технічна,text_donation,,1,train,0
 0419,25c02efd,1,Житомирська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0420,996791d9,0,Київ,Жіноча,Інше,translation,ru,1,train,0
 0421,b8778f94,1,Житомирська,Чоловіча,Технічна,text_donation,,1,train,0
 0422,a4508265,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0423,547b09d2,1,Тернопільська,Жіноча,Технічна,text_donation,,1,train,0
 0424,f75e3aff,1,Львівська,Жіноча,Природнича,text_donation,,1,train,0
-0425,d5db703f,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0426,8552bbc5,0,Харківська,Чоловіча,Природнича,translation,en,1 2,test,0
-0427,6e562eb5,1,Київ,Чоловіча,Технічна,translation,ru,1,train,0
 0428,547b46df,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
 0429,63f78db8,1,Хмельницька,Чоловіча,Гуманітарна,translation,pl,1,train,0
 0430,b641b977,0,Київ,Чоловіча,Технічна,text_donation,,1 2,test,0
@@ -437,7 +374,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0435,e91f0197,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0436,540cb3e3,1,Львівська,Жіноча,Технічна,translation,en,1,train,0
 0437,f0550cbd,1,Івано-Франківська,Жіноча,Інше,text_donation,,1,train,0
-0438,31d8b0fa,1,Київ,Чоловіча,Технічна,translation,ru,1,train,0
 0439,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0440,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0441,773ed85c,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
@@ -456,17 +392,13 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0454,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0455,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0456,31d18037,1,Київська,Чоловіча,Технічна,text_donation,,1,train,0
-0457,561aa3aa,1,Вінницька,Жіноча,Технічна,translation,ru,1,train,0
 0458,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
-0459,c7a977f7,0,Донецька,Жіноча,Технічна,translation,ru,1,train,0
 0460,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0461,b9cf07a5,1,Тернопільська,Чоловіча,Технічна,text_donation,,1,train,0
 0462,680f42b7,1,Волинська,Жіноча,Гуманітарна,translation,de,1,train,0
-0463,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 0464,8d8dd1c6,0,Сумська,Жіноча,Технічна,translation,pl,1,train,0
 0465,c50ba9c8,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0466,f9891093,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
-0467,60a47522,1,Житомирська,Жіноча,Технічна,translation,ru,1,train,0
 0468,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1 2,train,0
 0469,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0470,2a71681c,1,Львівська,Жіноча,Технічна,translation,en,1 2,test,0
@@ -476,7 +408,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0474,d7b911d7,1,Херсонська,Чоловіча,Технічна,text_donation,,1,train,0
 0475,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1 2,train,0
 0476,653fe0bd,1,Київ,Жіноча,Технічна,text_donation,,1,train,0
-0477,3754aa08,0,Київ,Жіноча,Технічна,translation,ru,1,train,0
 0478,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0479,2244117d,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0480,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
@@ -487,7 +418,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0485,9ad2992d,0,Черкаська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0486,d8a99deb,0,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0487,a4508265,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-0488,92e2f344,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0489,1a2d0d0d,1,Київ,Чоловіча,Гуманітарна,text_donation,,1,train,0
 0490,78459886,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
 0491,a4508265,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
@@ -505,20 +435,15 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0503,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,1
 0504,35c6da66,1,Львівська,Жіноча,Технічна,translation,en,1,train,0
 0505,6c86db53,1,Київ,Чоловіча,Гуманітарна,translation,en,1,train,0
-0506,f150bd3b,0,Харківська,Жіноча,Технічна,translation,ru,1 2,test,0
 0507,c612dc47,1,Одеська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0508,25c02efd,1,Житомирська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0509,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0510,9f6489d0,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0511,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 0512,85dbd996,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0513,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0514,25c02efd,1,Житомирська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0515,6edbd314,0,Одеська,Жіноча,Технічна,translation,ru,1,train,0
 0516,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0517,b0aa636c,0,Донецька,Жіноча,Природнича,translation,ru,1,train,0
 0518,0be877e1,1,Волинська,Жіноча,Інше,text_donation,,1,train,0
-0519,98ced84a,1,Сумська,Жіноча,Технічна,translation,ru,1,train,0
 0520,5704ca3c,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0521,97fb0c6e,1,Сумська,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0522,0be877e1,1,Волинська,Жіноча,Інше,text_donation,,1,train,0
@@ -527,7 +452,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0525,fb68f16f,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 0526,85dbd996,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0527,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
-0528,e79cc840,1,Чернівецька,Жіноча,Технічна,translation,ru,1,train,0
 0529,547b09d2,1,Тернопільська,Жіноча,Технічна,text_donation,,1,train,0
 0530,f5b7fd03,1,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0531,021d0178,1,Львівська,Жіноча,Технічна,translation,en,1,train,0
@@ -537,11 +461,9 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0535,a4f8d8e0,1,Дніпропетровська,Жіноча,Технічна,text_donation,,1,train,0
 0536,5137514c,1,Івано-Франківська,Чоловіча,Природнича,translation,en,1,train,0
 0537,ce29bcd8,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
-0538,10ae303d,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0539,34fdde49,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0540,2206358c,1,Полтавська,Чоловіча,Гуманітарна,translation,en,1,train,0
 0541,62fc17be,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
-0542,aec97fcc,1,Черкаська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0543,e2bf252f,0,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 0544,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0545,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1,train,0
@@ -559,7 +481,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0557,898e8fce,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 0558,a410bef0,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0559,cebd4980,1,Київ,Жіноча,Гуманітарна,essay,,1,train,0
-0560,20bb6576,1,Миколаївська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0561,bb3ccc7a,1,Тернопільська,Чоловіча,Технічна,translation,en,1,train,0
 0562,ce29bcd8,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
 0563,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
@@ -572,17 +493,13 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0570,29249529,1,Вінницька,Чоловіча,Технічна,translation,en,1,train,0
 0571,898e8fce,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 0572,ffdb987e,1,Київська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0573,32e353f2,0,Донецька,Жіноча,Інше,translation,ru,1,train,0
 0574,25c02efd,1,Житомирська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0575,94ac8f6b,1,Львівська,Жіноча,Гуманітарна,translation,ru,1 2,test,0
 0576,1f01c390,0,Харківська,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0577,9e077e67,1,Донецька,Чоловіча,Технічна,translation,en,1,train,0
 0578,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0579,6e9f5804,1,Дніпропетровська,Чоловіча,Технічна,text_donation,,1,train,0
-0580,8975c641,0,Херсонська,Чоловіча,Технічна,translation,ru,1,train,0
 0581,404691ee,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0582,2206358c,1,Полтавська,Чоловіча,Гуманітарна,translation,en,1,train,0
-0583,7e9facd9,1,Волинська,Жіноча,Інше,translation,ru,1,train,0
 0584,3f9d14ed,0,Київська,Чоловіча,Гуманітарна,translation,en,1,train,0
 0585,40cdc925,0,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0586,9e077e67,1,Донецька,Чоловіча,Технічна,translation,fr,1,train,0
@@ -590,23 +507,16 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0588,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0589,28ed3d6c,1,Львівська,Жіноча,Інше,essay,,1,train,0
 0590,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0591,41b12b0b,1,Тернопільська,Жіноча,Інше,translation,ru,1,train,0
-0592,2081922b,1,Львівська,Жіноча,Інше,translation,ru,1,train,0
 0593,898e8fce,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 0594,172605f9,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0595,cae03f86,1,Закарпатська,Чоловіча,Технічна,text_donation,,1,train,0
 0596,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0597,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-0598,ce490228,1,Київ,Чоловіча,Технічна,translation,ru,1,train,0
 0599,83fbf949,0,Одеська,Чоловіча,Технічна,translation,en,1,train,0
 0600,a4508265,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0601,f150bd3b,0,Харківська,Жіноча,Технічна,translation,en,1 2,test,0
-0602,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 0603,a63840a5,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
-0604,a4f8d8e0,1,Київ,Жіноча,Технічна,translation,ru,1,train,0
-0605,76751ad8,0,Дніпропетровська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0606,a6e2fc11,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
-0607,486f1cae,0,Київська,Чоловіча,Інше,translation,ru,1,train,0
 0608,0be877e1,1,Волинська,Жіноча,Інше,text_donation,,1,train,0
 0609,a182411c,1,Черкаська,Жіноча,Технічна,translation,en,1,train,0
 0610,da6493cb,0,Донецька,Чоловіча,Технічна,translation,en,1,train,0
@@ -618,19 +528,16 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0616,12485963,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0617,3c600c66,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 0618,fecebe23,1,Київська,Чоловіча,Гуманітарна,translation,en,1,train,0
-0619,09475dcd,1,Дніпропетровська,Чоловіча,Гуманітарна,translation,ru,1,train,0
 0620,26516797,1,Чернігівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0621,b753d5c4,0,Київ,Чоловіча,Технічна,text_donation,,1 2,test,0
 0622,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0623,5e47790b,1,Львівська,Жіноча,Технічна,text_donation,,1,train,1
 0624,3468afba,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0625,898e8fce,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
-0626,e1fdd184,1,Рівненська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0627,fc407936,1,Івано-Франківська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0628,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0629,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0630,3e9e05ff,0,Запорізька,Жіноча,Технічна,essay,,1,train,0
-0631,33511c2f,1,Житомирська,Чоловіча,Гуманітарна,translation,ru,1,train,0
 0632,c8482c91,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0633,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0634,efa9123a,1,Львівська,Жіноча,Інше,translation,en,1,train,0
@@ -652,19 +559,14 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0650,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0651,76333551,1,Київ,Жіноча,Інше,text_donation,,1,train,0
 0652,d6900217,1,Рівненська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0653,fecebe23,1,Київська,Чоловіча,Гуманітарна,translation,ru,1,train,0
 0654,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
-0655,10ae303d,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0656,65331651,0,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0657,cf6418c7,1,Львівська,Чоловіча,Технічна,text_donation,,1 2,test,0
-0658,10ae303d,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0659,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0660,b59b56ad,1,Київ,Інше,Технічна,translation,en,1,train,0
-0661,c7f8022c,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0662,411e82c9,1,Полтавська,Чоловіча,Гуманітарна,text_donation,,1 2,test,0
 0663,25c02efd,1,Житомирська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0664,23565f26,1,Одеська,Чоловіча,Технічна,text_donation,,1,train,0
-0665,b13100a2,1,Київська,Чоловіча,Інше,translation,ru,1,train,0
 0666,6bfc3b77,1,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0667,dcd559d6,1,Київ,Чоловіча,Гуманітарна,translation,en,1,train,0
 0668,c9df776b,0,Полтавська,Чоловіча,Інше,text_donation,,1,train,0
@@ -673,15 +575,12 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0671,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0672,68f4fffd,1,Київ,Жіноча,Технічна,text_donation,,1,train,0
 0673,76333551,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-0674,d7059798,0,Житомирська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0675,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0676,5a6b7e51,1,Рівненська,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0677,8363e6be,1,Рівненська,Жіноча,Технічна,translation,en,1 2,test,0
 0678,66d9ff96,1,Івано-Франківська,Чоловіча,Технічна,translation,en,1,train,0
-0679,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 0680,928c719d,1,Дніпропетровська,Чоловіча,Технічна,text_donation,,1,train,0
 0681,d2dc282f,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
-0682,f358751a,0,Харківська,Жіноча,Технічна,translation,ru,1 2,test,0
 0683,411e82c9,1,Полтавська,Чоловіча,Гуманітарна,text_donation,,1 2,test,0
 0684,c312370e,1,Івано-Франківська,Жіноча,Інше,translation,en,1 2,test,0
 0685,68f4fffd,1,Київ,Жіноча,Технічна,text_donation,,1,train,0
@@ -692,14 +591,12 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0690,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0691,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0692,6e9f5804,1,Дніпропетровська,Чоловіча,Технічна,text_donation,,1,train,0
-0693,8a7b77ad,0,Київ,Чоловіча,Технічна,translation,ru,1,train,0
 0694,67211f18,0,Харківська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0695,404691ee,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0696,4f1cea9e,1,Сумська,Чоловіча,Технічна,essay,,1,train,0
 0697,b170bc45,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
 0698,2b175c22,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
 0699,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,1
-0700,740cba70,0,Київ,Жіноча,Технічна,translation,ru,1,train,0
 0701,f69ece2b,0,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0702,7c2d5981,1,Львівська,Чоловіча,Інше,translation,en,1,train,0
 0703,20e76a0a,1,Тернопільська,Чоловіча,Гуманітарна,essay,,1,train,0
@@ -720,28 +617,21 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0718,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0719,40cdc925,0,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0720,a4508265,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-0721,8b44147b,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-0722,bf90bd5c,0,Інше,Чоловіча,Технічна,translation,ru,1,train,0
 0723,dfaca6b5,1,Дніпропетровська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0724,fb68f16f,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 0725,ce29bcd8,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
-0726,966c8fb8,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0727,d6900217,1,Рівненська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0728,8abaae93,1,Київ,Жіноча,Технічна,translation,en,1,train,0
 0729,280f22ee,1,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0730,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
-0731,30807001,0,Київ,Жіноча,Технічна,translation,ru,1,train,0
 0732,b976f82e,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0733,6899dcee,0,Чернігівська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0734,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0735,60d85da8,1,Київ,Жіноча,Гуманітарна,essay,,1,train,0
-0736,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 0737,9e41c2f0,1,Інше,Чоловіча,Технічна,translation,en,1,train,0
 0738,4470e3d3,0,Київ,Жіноча,Технічна,translation,en,1,train,0
 0739,85dbd996,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0740,280f22ee,1,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0741,8529e2cb,1,Тернопільська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-0742,b08622e9,1,Київ,Чоловіча,Технічна,translation,ru,1,train,0
 0743,a76f71d5,1,Тернопільська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0744,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0745,77734795,0,Київ,Жіноча,Технічна,translation,en,1,train,0
@@ -754,7 +644,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0752,adf5fdf5,1,Львівська,Жіноча,Інше,text_donation,,1,train,0
 0753,d1654f91,1,Київ,Жіноча,Інше,translation,en,1,train,0
 0754,76333551,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-0755,b13100a2,1,Київська,Чоловіча,Інше,translation,ru,1,train,0
 0756,d6900217,1,Рівненська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0757,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0758,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
@@ -775,7 +664,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0773,59374b69,0,Запорізька,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0774,a4508265,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0775,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
-0776,79de68f2,1,Чернівецька,Чоловіча,Технічна,translation,ru,1,train,0
 0777,85dbd996,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0778,4c2bab9f,0,Дніпропетровська,Чоловіча,Технічна,text_donation,,1,train,0
 0779,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
@@ -785,11 +673,8 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0783,280f22ee,1,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0784,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0785,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
-0786,2c2e196d,0,Дніпропетровська,Жіноча,Гуманітарна,translation,ru,1,train,0
-0787,b13100a2,1,Київська,Чоловіча,Інше,translation,ru,1,train,0
 0788,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0789,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
-0790,c491478e,1,Дніпропетровська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0791,26db2b25,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0792,a4508265,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 0793,7d30d6b7,1,Київ,Чоловіча,Природнича,text_donation,,1 2,test,0
@@ -807,23 +692,18 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0805,ce29bcd8,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
 0806,280f22ee,1,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0807,2ecd2f34,1,Львівська,Чоловіча,Інше,translation,en,1,train,0
-0808,d4f40581,1,Івано-Франківська,Чоловіча,Технічна,translation,ru,1,train,0
 0809,c50ba9c8,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
-0810,41b12b0b,1,Тернопільська,Жіноча,Інше,translation,ru,1,train,0
 0811,0a681827,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-0812,2d2dca7d,1,Київ,Жіноча,Гуманітарна,translation,ru,1 2,test,0
 0813,4d18b647,1,Львівська,Чоловіча,Гуманітарна,translation,en,1,train,0
 0814,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
 0815,decdd237,0,AP Крим,Жіноча,Технічна,essay,,1,train,0
 0816,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 0817,22ce04b3,0,Дніпропетровська,Жіноча,Гуманітарна,translation,en,1,train,0
-0818,2155b970,0,Чернігівська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0819,d8a99deb,0,Київ,Чоловіча,Технічна,text_donation,,1,train,0
 0820,20e76a0a,1,Тернопільська,Чоловіча,Гуманітарна,translation,en,1,train,0
 0821,45d7ec9c,1,Київська,Жіноча,Гуманітарна,translation,de,1,train,0
 0822,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0823,fe84902b,1,Волинська,Жіноча,Технічна,translation,en,1,train,0
-0824,94ac8f6b,1,Львівська,Жіноча,Гуманітарна,translation,ru,1 2,test,0
 0825,22ce04b3,0,Дніпропетровська,Жіноча,Гуманітарна,translation,fr,1,train,0
 0826,4ada21cb,1,Тернопільська,Чоловіча,Технічна,text_donation,,1,train,0
 0827,adf5fdf5,1,Львівська,Жіноча,Інше,text_donation,,1,train,0
@@ -842,8 +722,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0840,60d85da8,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,train,0
 0841,f4ded7f9,0,Харківська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0842,78f110ee,1,Рівненська,Чоловіча,Технічна,text_donation,,1,train,0
-0843,69481147,1,Чернівецька,Чоловіча,Гуманітарна,translation,ru,1 2,test,0
-0844,f358751a,0,Харківська,Жіноча,Технічна,translation,ru,1 2,test,0
 0845,2187eaf6,1,Львівська,Чоловіча,Технічна,translation,en,1 2,test,0
 0846,85dbd996,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,train,0
 0847,43e05e11,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
@@ -871,15 +749,11 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0869,299445b4,1,Київська,Чоловіча,Гуманітарна,text_donation,,1,train,0
 0870,76333551,1,Київ,Жіноча,Інше,text_donation,,1,train,1
 0871,9ad2992d,0,Черкаська,Чоловіча,Технічна,text_donation,,1 2,test,0
-0872,141e6b0e,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-0873,e91f0197,1,Київ,Чоловіча,Технічна,translation,ru,1,train,0
-0874,f8c3e4e3,0,Луганська,Жіноча,Інше,translation,ru,1,train,0
 0875,79dfaf31,1,Київська,Жіноча,Технічна,text_donation,,1,train,0
 0876,6e9f5804,1,Дніпропетровська,Чоловіча,Технічна,text_donation,,1,train,0
 0877,c0016094,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
 0878,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 0879,d8a99deb,0,Київ,Чоловіча,Технічна,text_donation,,1,train,0
-0880,916a1ff4,1,Кіровоградська,Жіноча,Інше,translation,ru,1,train,0
 0881,b78b5a9e,0,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0882,d2e738a6,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
 0883,24fb243e,1,Київ,Чоловіча,Технічна,translation,en,1 2,test,0
@@ -893,7 +767,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0891,c612dc47,1,Одеська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0892,ce29bcd8,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
 0893,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1,train,0
-0894,33511c2f,1,Житомирська,Чоловіча,Гуманітарна,translation,ru,1,train,0
 0895,f4d56c90,1,Київ,Жіноча,Природнича,essay,,1 2,test,0
 0896,97fb0c6e,1,Сумська,Жіноча,Гуманітарна,text_donation,,1 2,test,0
 0897,d3cf9a72,1,Київ,Жіноча,Технічна,essay,,1,train,0
@@ -910,19 +783,14 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0908,065bfd8a,1,Кіровоградська,Чоловіча,Гуманітарна,text_donation,,1,train,0
 0909,981cfa9b,1,Івано-Франківська,Чоловіча,Інше,text_donation,,1 2,test,0
 0910,25c02efd,1,Житомирська,Жіноча,Гуманітарна,text_donation,,1,train,0
-0911,18d5b92e,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 0912,1faf7e1b,1,Львівська,Жіноча,Технічна,translation,en,1,train,0
 0913,9ed578d6,1,Сумська,Жіноча,Інше,translation,en,1,train,0
 0914,3a70a64e,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 0915,48f599b6,0,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-0916,8e95274a,1,Харківська,Чоловіча,Інше,translation,ru,1,train,0
 0917,b75be1d1,1,Київ,Чоловіча,Природнича,text_donation,,1 2,train,0
-0918,aec97fcc,1,Черкаська,Жіноча,Гуманітарна,translation,ru,1,train,0
 0919,680f42b7,1,Волинська,Жіноча,Гуманітарна,text_donation,,1,train,0
 0920,dfaca6b5,1,Дніпропетровська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0921,8603d2ba,1,Київ,Жіноча,Інше,text_donation,,1 2,test,0
-0922,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
-0923,70711d24,0,Луганська,Жіноча,Технічна,translation,ru,1 2,test,0
 0924,9ad2992d,0,Черкаська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0925,a0de1eb3,1,Хмельницька,Чоловіча,Гуманітарна,text_donation,,1,train,0
 0926,7896f51c,0,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
@@ -933,7 +801,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0931,a76f71d5,1,Тернопільська,Чоловіча,Технічна,text_donation,,1 2,test,0
 0932,d8e8726f,0,Київ,Жіноча,Інше,text_donation,,1 2,test,0
 0933,62fc17be,1,Київ,Жіноча,Гуманітарна,text_donation,,1 2,test,0
-0934,b13100a2,1,Київська,Чоловіча,Інше,translation,ru,1,train,0
 0935,bb14d78e,1,Житомирська,Жіноча,Технічна,essay,,1,train,0
 0936,88ea1ef5,0,Запорізька,Жіноча,Гуманітарна,translation,en,1,train,0
 0937,b655e8e6,0,Інше,Жіноча,Технічна,text_donation,,1,train,0
@@ -1002,875 +869,408 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 1000,36e33f83,0,Інше,Чоловіча,Гуманітарна,essay,,1,train,1
 1001,68bd82cf,0,Інше,Інше,Технічна,essay,,1,train,0
 1002,f11a8f33,0,Інше,Інше,Технічна,essay,,1,train,0
-1003,b655e8e6,0,Інше,Жіноча,Гуманітарна,translation,ru,1,train,0
-1004,5f199bef,0,Інше,Жіноча,Гуманітарна,translation,ru,1,train,0
-1005,cd7e4a2e,0,Інше,Жіноча,Гуманітарна,translation,ru,1,train,0
-1006,07a96e0e,0,Інше,Інше,Технічна,translation,ru,1,train,0
-1007,7b56fd6d,1,Інше,Чоловіча,Технічна,translation,ru,1,train,0
-1008,7b761a91,1,Інше,Чоловіча,Технічна,translation,ru,1,train,0
-1009,b7afd317,0,Інше,Чоловіча,Технічна,translation,ru,1,train,0
-1010,c3aeeda5,1,Інше,Чоловіча,Технічна,translation,ru,1,train,0
-1011,94df5252,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-1012,3a96720c,1,Полтавська,Жіноча,Інше,translation,ru,1,train,0
 1013,e2ccdb47,1,Львівська,Чоловіча,Гуманітарна,translation,en,1,train,0
-1014,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1015,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1016,4a06ca1b,1,Івано-Франківська,Жіноча,Гуманітарна,translation,pl,1,train,0
-1017,85043bd0,1,Миколаївська,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1018,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
-1019,7c42e58f,0,Полтавська,Інше,Інше,translation,ru,1,train,0
-1020,ea2f7d5a,1,Хмельницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1021,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1022,e8d5feb3,1,Полтавська,Чоловіча,Інше,translation,ru,1,train,0
 1023,2eee71f2,1,Черкаська,Жіноча,Технічна,translation,en,1,train,0
 1024,8804dc00,1,Інше,Чоловіча,Технічна,translation,en,1,train,0
 1025,4f303ef9,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 1026,62c5b7bf,1,Київ,Інше,Інше,text_donation,,1,train,0
 1027,2e73a691,1,Полтавська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-1028,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1029,b8643cad,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1030,8efd8beb,1,Запорізька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1031,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1032,e872f4d4,1,Черкаська,Жіноча,Технічна,translation,ru,1,train,0
-1033,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1034,56229025,1,Вінницька,Жіноча,Гуманітарна,translation,en,1,train,0
 1035,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1036,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,en,1,train,0
 1037,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1038,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1039,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1040,08d5c10d,0,Миколаївська,Жіноча,Гуманітарна,translation,en,1,train,0
-1041,9d3e4e6d,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1042,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1043,0c888e23,0,Запорізька,Чоловіча,Гуманітарна,translation,pl,1,train,0
-1044,9db6c1e4,1,Тернопільська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1045,a471ebc3,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-1046,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1047,2eee71f2,1,Київ,Жіноча,Технічна,translation,ru,1,train,0
-1048,07c98828,1,Одеська,Жіноча,Інше,translation,ru,1,train,0
-1049,31ffc3db,1,Вінницька,Чоловіча,Технічна,translation,ru,1,train,0
-1050,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1051,07c98828,1,Одеська,Жіноча,Інше,translation,ru,1,train,0
 1052,d3e3ec37,1,Хмельницька,Чоловіча,Технічна,translation,de,1,train,0
 1053,d3b8b480,1,Сумська,Жіноча,Інше,essay,,1,train,0
 1054,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1055,637e7e54,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1056,eb7b6645,0,Дніпропетровська,Жіноча,Інше,translation,ru,1,train,0
-1057,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1058,cb87f84f,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-1059,b99b0061,1,Хмельницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1060,08436a00,1,Львівська,Чоловіча,Технічна,translation,ru,1,train,0
 1061,a22f18a5,1,Одеська,Жіноча,Гуманітарна,essay,,1,train,0
 1062,ca31b6f2,1,Закарпатська,Жіноча,Технічна,text_donation,,1,train,0
 1063,8cf88d77,1,Львівська,Жіноча,Інше,essay,,1,train,0
-1064,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1065,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1066,62c5b7bf,1,Київ,Інше,Інше,text_donation,,1,train,0
-1067,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1068,2e98786e,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1069,228f23ef,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1070,53acbdc9,1,Луганська,Чоловіча,Гуманітарна,translation,en,1,train,0
 1071,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,en,1,train,0
 1072,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1073,7c9fa29f,0,Київ,Чоловіча,Інше,translation,ru,1,train,0
 1074,5c01bb1a,0,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1075,1f5533e1,1,Вінницька,Чоловіча,Технічна,translation,ru,1,train,0
-1076,eb7b6645,0,Дніпропетровська,Жіноча,Інше,translation,ru,1,train,0
-1077,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1078,922c6d30,0,Київ,Жіноча,Технічна,text_donation,,1,train,0
-1079,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
-1080,f64ccb77,1,Київ,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1081,740b9f16,1,Житомирська,Чоловіча,Технічна,translation,ru,1,train,0
 1082,1717ef1a,1,Вінницька,Чоловіча,Технічна,text_donation,,1,train,0
 1083,7c1c71ab,1,Київ,Жіноча,Інше,translation,en,1,train,0
 1084,e3e47c63,1,Львівська,Жіноча,Інше,translation,de,1,train,0
 1085,0a158f06,0,Запорізька,Чоловіча,Гуманітарна,translation,en,1,train,0
-1086,5af6a2d2,1,Київ,Жіноча,Інше,translation,ru,1,train,0
 1087,d71805b8,1,Київ,Жіноча,Технічна,translation,en,1,train,0
-1088,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1089,b99b0061,1,Хмельницька,Жіноча,Гуманітарна,translation,en,1,train,0
-1090,17c68060,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1091,4c045d30,1,Івано-Франківська,Чоловіча,Гуманітарна,translation,en,1,train,0
 1092,23f412b1,1,Івано-Франківська,Жіноча,Гуманітарна,translation,en,1,train,0
 1093,fdee18e7,1,Львівська,Жіноча,Інше,translation,en,1,train,0
-1094,eb7b6645,0,Дніпропетровська,Жіноча,Інше,translation,ru,1,train,0
 1095,71b32361,0,Київ,Жіноча,Гуманітарна,translation,de,1,train,0
 1096,a09bdbc6,0,Миколаївська,Жіноча,Технічна,text_donation,,1,train,0
 1097,cd5a1b08,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
-1098,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1099,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1100,a19b9cc1,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1101,290eba03,1,Харківська,Жіноча,Гуманітарна,translation,en,1,train,0
 1102,1683bbf3,1,Луганська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1103,673a2ed7,1,Вінницька,Чоловіча,Технічна,translation,ru,1,train,0
 1104,aebae8af,1,Львівська,Жіноча,Природнича,text_donation,,1,train,0
-1105,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1106,e6054d9c,1,Київ,Чоловіча,Технічна,translation,ru,1,train,0
 1107,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1108,8faf3d7b,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
-1109,8f2bb9a4,0,Миколаївська,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1110,63d78f1d,0,Київ,Жіноча,Технічна,translation,ru,1,train,0
 1111,eee1de5b,0,Запорізька,Жіноча,Гуманітарна,essay,,1,train,0
-1112,740b9f16,1,Житомирська,Чоловіча,Технічна,translation,ru,1,train,0
-1113,7e7539a6,1,Черкаська,Жіноча,Інше,translation,ru,1,train,0
-1114,e6054d9c,1,Київ,Чоловіча,Технічна,translation,ru,1,train,0
 1115,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1116,ae4ae3d9,1,Черкаська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1117,19639ac9,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1118,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1119,4ce37dd2,1,Хмельницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1120,95779e54,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1121,4bce661d,1,Київ,Жіноча,Гуманітарна,essay,,1,train,0
 1122,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
-1123,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
-1124,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
 1125,141e6b0e,1,Київ,Жіноча,Інше,essay,,1,train,0
-1126,2281c029,1,Вінницька,Жіноча,Інше,translation,ru,1,train,0
-1127,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1128,7fd91c22,1,Запорізька,Чоловіча,Природнича,translation,en,1,train,0
-1129,dc4f22fd,1,Київ,Жіноча,Природнича,translation,ru,1,train,0
-1130,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1131,23f412b1,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1132,d7713232,1,Волинська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1133,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1134,00e5d29e,1,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1135,899c6ca4,1,AP Крим,Жіноча,Гуманітарна,translation,ru,1,train,0
-1136,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 1137,8f440718,1,Тернопільська,Жіноча,Інше,text_donation,,1,train,0
 1138,1eee1a55,1,Черкаська,Жіноча,Гуманітарна,translation,en,1,train,0
 1139,c4d10be7,1,Донецька,Жіноча,Гуманітарна,translation,en,1,train,0
-1140,2e73a691,1,Полтавська,Чоловіча,Гуманітарна,translation,ru,1,train,0
 1141,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,text_donation,,1,train,0
 1142,62c5b7bf,1,Київ,Інше,Інше,text_donation,,1,train,0
 1143,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1144,91817427,1,Рівненська,Жіноча,Інше,translation,ru,1,train,0
 1145,e511abb2,1,Кіровоградська,Чоловіча,Гуманітарна,essay,,1,train,0
 1146,324a9b34,1,Львівська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-1147,5d1fd83f,0,Полтавська,Жіноча,Технічна,translation,ru,1,train,0
 1148,3e20f0fb,1,Дніпропетровська,Чоловіча,Гуманітарна,translation,en,1,train,0
 1149,6a309ec9,1,Рівненська,Жіноча,Технічна,text_donation,,1,train,0
 1150,b090ab9f,1,Київ,Жіноча,Технічна,text_donation,,1,train,0
 1151,1e565b8d,1,Хмельницька,Жіноча,Інше,text_donation,,1,train,0
-1152,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1153,ef14be8f,1,Рівненська,Жіноча,Інше,translation,ru,1,train,0
 1154,378227bd,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-1155,2cb6ef33,0,Запорізька,Чоловіча,Інше,translation,ru,1,train,0
 1156,a471ebc3,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1157,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 1158,aec4ce57,1,Львівська,Жіноча,Інше,translation,en,1,train,0
-1159,0a158f06,0,Запорізька,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1160,684ab6ba,1,Херсонська,Чоловіча,Технічна,translation,ru,1,train,0
 1161,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1162,22562e3c,1,Тернопільська,Жіноча,Інше,translation,ru,1,train,0
-1163,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1164,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1165,22562e3c,1,Тернопільська,Жіноча,Інше,translation,ru,1,train,0
-1166,f8c3e4e3,1,Луганська,Жіноча,Інше,translation,ru,1,train,0
-1167,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
-1168,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1169,0410a979,1,Львівська,Жіноча,Природнича,translation,en,1,train,0
 1170,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1171,ea2f7d5a,1,Хмельницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1172,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1173,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1174,22ddb809,0,Київ,Жіноча,Інше,translation,en,1,train,0
-1175,141e6b0e,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-1176,1c48a883,1,Херсонська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1177,efa69171,1,Київ,Чоловіча,Інше,translation,en,1,train,0
 1178,9fdc0af9,1,Львівська,Жіноча,Гуманітарна,translation,fr,1,train,0
 1179,1717ef1a,1,Вінницька,Чоловіча,Технічна,text_donation,,1,train,0
 1180,32ef3761,0,Донецька,Жіноча,Інше,translation,en,1,train,0
 1181,a9b1404d,1,Київська,Чоловіча,Технічна,translation,en,1,train,0
 1182,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1183,3f144444,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1184,6fa57acf,1,Волинська,Чоловіча,Гуманітарна,translation,en,1,train,0
 1185,e29f562c,1,Львівська,Жіноча,Гуманітарна,translation,en,1,train,0
 1186,3f144444,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1187,2281c029,1,Вінницька,Жіноча,Інше,translation,ru,1,train,0
-1188,0af5300a,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1189,b090ab9f,1,Київ,Жіноча,Технічна,text_donation,,1,train,0
-1190,7ea953e1,1,Хмельницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1191,f64ccb77,1,Київ,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1192,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1193,ca31b6f2,1,Закарпатська,Жіноча,Технічна,text_donation,,1,train,0
-1194,421f9537,1,Львівська,Жіноча,Інше,translation,ru,1,train,0
-1195,8f1510cd,0,Дніпропетровська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1196,1e565b8d,1,Хмельницька,Жіноча,Інше,text_donation,,1,train,0
-1197,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1198,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1199,cfe25e92,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
-1200,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1201,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1202,401ae5d0,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1203,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1204,066acc80,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1205,e087d044,1,Житомирська,Чоловіча,Технічна,translation,ru,1,train,0
 1206,965e3649,1,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
 1207,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1208,8ebb0362,1,Львівська,Жіноча,Природнича,translation,en,1,train,0
-1209,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1210,5667ffb0,1,Івано-Франківська,Чоловіча,Технічна,translation,ru,1,train,0
-1211,b82ee146,0,Дніпропетровська,Жіноча,Технічна,translation,ru,1,train,0
-1212,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 1213,cbc30d07,0,Запорізька,Жіноча,Технічна,essay,,1,train,0
-1214,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
 1215,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
-1216,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
-1217,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
 1218,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1219,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1220,ee2f3aa3,1,Харківська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-1221,947b3dc9,0,Київ,Жіноча,Інше,translation,ru,1,train,0
 1222,4c045d30,1,Івано-Франківська,Чоловіча,Гуманітарна,translation,en,1,train,0
 1223,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
 1224,9ad2992d,0,Вінницька,Чоловіча,Технічна,text_donation,,1 2,test,0
-1225,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1226,62c5b7bf,1,Київ,Інше,Інше,text_donation,,1,train,0
-1227,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
 1228,d2092a24,1,Київ,Жіноча,Гуманітарна,translation,de,1,train,0
 1229,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1230,421f9537,1,Львівська,Жіноча,Інше,translation,ru,1,train,0
-1231,a91b95c5,1,Луганська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1232,e29f562c,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1233,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1234,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1235,47a0b43a,0,Сумська,Жіноча,Інше,translation,ru,1,train,0
-1236,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1237,c9859626,1,Вінницька,Чоловіча,Гуманітарна,translation,en,1,train,0
 1238,9382e09d,0,Київ,Жіноча,Технічна,text_donation,,1,train,0
 1239,6fa57acf,1,Волинська,Чоловіча,Гуманітарна,translation,en,1,train,0
-1240,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1241,899c6ca4,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1242,faf874eb,1,Чернівецька,Жіноча,Гуманітарна,translation,en,1,train,0
 1243,fd182197,1,Хмельницька,Чоловіча,Інше,text_donation,,1,train,0
 1244,d71805b8,1,Київ,Жіноча,Інше,translation,en,1,train,0
 1245,c9859626,1,Вінницька,Чоловіча,Гуманітарна,translation,en,1,train,0
 1246,378227bd,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-1247,a471ebc3,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-1248,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1249,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1250,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1251,23f412b1,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1252,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1253,494e4b03,1,Київ,Жіноча,Природнича,translation,ru,1,train,0
 1254,726f0afa,1,Кіровоградська,Жіноча,Інше,text_donation,,1,train,0
-1255,5a35e847,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1256,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,en,1,train,0
-1257,421f9537,1,Львівська,Жіноча,Інше,translation,ru,1,train,0
 1258,a471ebc3,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1259,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1260,8cf88d77,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
-1261,f4108eae,1,Волинська,Жіноча,Технічна,translation,ru,1,train,0
-1262,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1263,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1264,1431db4d,0,Донецька,Чоловіча,Інше,translation,ru,1,train,0
-1265,b9230aa0,0,Київ,Жіноча,Технічна,translation,ru,1,train,0
 1266,faf874eb,1,Чернівецька,Жіноча,Гуманітарна,translation,en,1,train,0
 1267,a471ebc3,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1268,f1a81870,1,Житомирська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1269,a09bdbc6,0,Миколаївська,Жіноча,Технічна,text_donation,,1,train,0
 1270,54f638de,1,Полтавська,Жіноча,Гуманітарна,text_donation,,1,train,0
 1271,637e7e54,1,Івано-Франківська,Жіноча,Гуманітарна,translation,en,1,train,0
-1272,00e5d29e,1,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1273,8eb15b56,1,Полтавська,Жіноча,Інше,translation,ru,1,train,0
 1274,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1275,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1276,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 1277,961576bb,1,Івано-Франківська,Жіноча,Гуманітарна,translation,en,1,train,0
 1278,4ce37dd2,1,Хмельницька,Жіноча,Гуманітарна,translation,en,1,train,0
 1279,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
-1280,8ee35003,0,Дніпропетровська,Чоловіча,Інше,translation,ru,1,train,0
 1281,c75b3ccb,1,Львівська,Чоловіча,Інше,translation,de,1,train,0
 1282,fdee18e7,1,Львівська,Жіноча,Інше,translation,en,1,train,0
-1283,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1284,3f144444,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 1285,d21bb49b,1,Львівська,Чоловіча,Гуманітарна,translation,en,1,train,0
-1286,22562e3c,1,Тернопільська,Жіноча,Інше,translation,ru,1,train,0
-1287,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1288,1e565b8d,1,Хмельницька,Жіноча,Інше,text_donation,,1,train,0
 1289,c9859626,1,Вінницька,Чоловіча,Гуманітарна,translation,en,1,train,0
 1290,7142f3b9,1,Черкаська,Жіноча,Гуманітарна,translation,de,1,train,0
-1291,a79d8e16,1,Івано-Франківська,Чоловіча,Технічна,translation,ru,1,train,0
-1292,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1293,141e6b0e,1,Київ,Жіноча,Інше,translation,en,1,train,0
 1294,c9859626,1,Вінницька,Чоловіча,Гуманітарна,translation,en,1,train,0
 1295,d6e99baa,1,Львівська,Жіноча,Інше,translation,en,1,train,0
-1296,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
-1297,7e111b88,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-1298,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1299,5183ca1d,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
-1300,30741fdf,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1301,0e200948,0,Інше,Чоловіча,Технічна,translation,de,1,train,0
 1302,73d5d843,1,Івано-Франківська,Жіноча,Гуманітарна,essay,,1,train,0
-1303,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1304,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1305,3f144444,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 1306,3f144444,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 1307,0b90ecd8,0,Сумська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1308,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1309,45499c1f,1,Черкаська,Жіноча,Інше,translation,en,1,train,0
-1310,bb07df65,1,Кіровоградська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1311,4b0ce556,1,Житомирська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1312,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1313,2e98786e,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1314,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1315,07c98828,1,Одеська,Жіноча,Інше,translation,ru,1,train,0
 1316,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
 1317,aa0d9a6a,0,Київ,Чоловіча,Технічна,text_donation,,1,train,0
-1318,f2158d7f,0,Житомирська,Жіноча,Інше,translation,ru,1,train,0
-1319,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1320,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1321,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1322,a670b84c,0,Київ,Жіноча,Гуманітарна,essay,,1,train,0
-1323,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1324,45499c1f,1,Черкаська,Жіноча,Інше,translation,ru,1,train,0
 1325,ed52c76f,1,Львівська,Жіноча,Інше,translation,en,1,train,0
 1326,c7bfe8b4,1,Львівська,Жіноча,Інше,translation,en,1,train,0
 1327,141e6b0e,1,Київ,Жіноча,Інше,essay,,1,train,0
-1328,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1329,b9ba41d6,0,Дніпропетровська,Жіноча,Інше,translation,ru,1,train,0
 1330,49fab937,0,Кіровоградська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-1331,5667ffb0,1,Івано-Франківська,Чоловіча,Технічна,translation,ru,1,train,0
-1332,2b7c3654,1,Київ,Жіноча,Технічна,translation,ru,1,train,0
 1333,2060f338,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1334,f2158d7f,0,Житомирська,Жіноча,Інше,translation,ru,1,train,0
-1335,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1336,d6d1f012,1,Полтавська,Жіноча,Гуманітарна,translation,en,1,train,0
-1337,8be05d29,1,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1338,22562e3c,1,Тернопільська,Жіноча,Інше,translation,ru,1,train,0
 1339,a3d629c5,0,Запорізька,Жіноча,Гуманітарна,translation,de,1,train,0
 1340,1e565b8d,1,Хмельницька,Жіноча,Інше,text_donation,,1,train,0
 1341,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1342,fd182197,1,Хмельницька,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1343,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1344,2c4a91a3,1,Дніпропетровська,Жіноча,Гуманітарна,translation,en,1,train,0
 1345,0bed9726,0,Київ,Жіноча,Гуманітарна,translation,de,1,train,0
 1346,d71805b8,1,Київ,Жіноча,Інше,translation,en,1,train,0
 1347,ca31b6f2,1,Закарпатська,Жіноча,Технічна,text_donation,,1,train,0
-1348,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1349,12d0ccc2,0,Сумська,Жіноча,Гуманітарна,translation,en,1,train,0
-1350,132e49cf,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1351,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
 1352,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1353,8cf88d77,1,Львівська,Жіноча,Технічна,translation,ru,1,train,0
 1354,9b16be56,1,Львівська,Чоловіча,Технічна,essay,,1,train,0
 1355,421f9537,1,Львівська,Жіноча,Інше,translation,en,1,train,0
 1356,56229025,1,Вінницька,Жіноча,Гуманітарна,translation,en,1,train,0
 1357,6b664cad,1,Львівська,Чоловіча,Технічна,essay,,1,train,0
-1358,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1359,5af6a2d2,1,Київ,Жіноча,Інше,translation,ru,1,train,0
 1360,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,en,1,train,0
-1361,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1362,019d956e,1,Івано-Франківська,Чоловіча,Технічна,translation,en,1,train,0
 1363,f8c3e4e3,1,Луганська,Жіноча,Інше,translation,en,1,train,0
 1364,a76f71d5,1,Тернопільська,Чоловіча,Природнича,text_donation,,1 2,test,0
-1365,fb38a958,0,Дніпропетровська,Жіноча,Інше,translation,ru,1,train,0
 1366,62c5b7bf,1,Київ,Інше,Інше,text_donation,,1,train,0
 1367,ae9567cb,1,Херсонська,Жіноча,Технічна,translation,fr,1,train,0
 1368,cc01a1fc,0,Дніпропетровська,Жіноча,Гуманітарна,translation,en,1,train,0
 1369,2281c029,1,Вінницька,Жіноча,Інше,text_donation,,1,train,0
-1370,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1371,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1372,b126500b,0,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1373,70644406,0,Київська,Жіноча,Гуманітарна,translation,en,1,train,0
 1374,cfe25e92,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 1375,d21bb49b,1,Львівська,Чоловіча,Гуманітарна,translation,en,1,train,0
-1376,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1377,8425342c,1,Волинська,Чоловіча,Технічна,translation,en,1,train,0
 1378,d14b1fdf,1,Кіровоградська,Жіноча,Гуманітарна,essay,,1,train,0
-1379,0af5300a,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1380,45b25382,0,AP Крим,Жіноча,Гуманітарна,translation,en,1,train,0
-1381,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1382,1e565b8d,1,Хмельницька,Жіноча,Інше,text_donation,,1,train,0
-1383,85043bd0,1,Миколаївська,Чоловіча,Інше,translation,ru,1,train,0
 1384,0a04a8ac,1,Львівська,Жіноча,Інше,translation,en,1,train,0
-1385,bb07df65,1,Кіровоградська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1386,8eb15b56,1,Полтавська,Жіноча,Інше,translation,fr,1,train,0
 1387,8b44147b,1,Київ,Жіноча,Інше,text_donation,,1,train,0
 1388,70e3179f,1,Івано-Франківська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-1389,9683214b,1,Вінницька,Чоловіча,Гуманітарна,translation,ru,1,train,0
 1390,10ae303d,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1391,71b7d373,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1392,8cf88d77,1,Львівська,Жіноча,Технічна,translation,ru,1,train,0
 1393,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
-1394,8be66d2c,1,Харківська,Жіноча,Природнича,translation,ru,1,train,0
-1395,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1396,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1397,4f303ef9,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1398,f2774722,1,Сумська,Жіноча,Технічна,translation,en,1,train,0
 1399,e1ad946c,1,Сумська,Жіноча,Гуманітарна,translation,en,1,train,0
-1400,637e7e54,1,Івано-Франківська,Жіноча,Інше,translation,ru,1,train,0
-1401,f1a81870,1,Житомирська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1402,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1403,ac179dad,1,Сумська,Жіноча,Гуманітарна,essay,,1,train,0
-1404,539489e3,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-1405,f64ccb77,1,Київ,Чоловіча,Гуманітарна,translation,ru,1,train,0
 1406,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 1407,cfe25e92,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
 1408,a09bdbc6,0,Миколаївська,Жіноча,Технічна,text_donation,,1,train,0
-1409,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1410,a4f8d8e0,1,Дніпропетровська,Жіноча,Технічна,text_donation,,1,train,0
 1411,421f9537,1,Луганська,Жіноча,Інше,translation,en,1,train,0
-1412,2cb6ef33,0,Запорізька,Чоловіча,Інше,translation,ru,1,train,0
-1413,0dc6baac,1,Тернопільська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1414,7c9fa29f,0,Київ,Чоловіча,Інше,translation,ru,1,train,0
-1415,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1416,1e565b8d,1,Хмельницька,Жіноча,Інше,translation,en,1,train,0
-1417,22562e3c,1,Тернопільська,Жіноча,Інше,translation,ru,1,train,0
-1418,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1419,4f303ef9,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1420,f38c235d,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1421,ca31b6f2,1,Закарпатська,Жіноча,Технічна,text_donation,,1,train,0
-1422,055a309b,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-1423,d26d4fc6,1,Волинська,Жіноча,Інше,translation,ru,1,train,0
 1424,8c8c8cb4,0,Донецька,Чоловіча,Інше,translation,en,1,train,0
-1425,a91b95c5,1,Луганська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1426,62c5b7bf,1,Київ,Інше,Інше,text_donation,,1,train,0
 1427,85043bd0,1,Миколаївська,Чоловіча,Гуманітарна,translation,en,1,train,0
 1428,9208494b,1,Київ,Чоловіча,Гуманітарна,translation,en,1,train,0
 1429,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1430,899c6ca4,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1431,89dfe0c9,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1432,20cc8e8f,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1433,7e67de75,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1434,62557a09,1,Чернігівська,Жіноча,Гуманітарна,translation,en,1,train,0
 1435,993cdaa8,1,Київ,Жіноча,Інше,text_donation,,1,train,0
 1436,3a96720c,1,Полтавська,Жіноча,Інше,translation,pl,1,train,0
-1437,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1438,626dfbe1,1,Донецька,Жіноча,Технічна,text_donation,,1,train,0
-1439,c7813f7a,1,Полтавська,Жіноча,Інше,translation,ru,1,train,0
 1440,a471ebc3,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1441,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1442,ea2f7d5a,1,Хмельницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1443,a471ebc3,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1444,b36e5c25,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1445,7ea953e1,1,Хмельницька,Жіноча,Гуманітарна,translation,en,1,train,0
 1446,2281c029,1,Вінницька,Жіноча,Інше,text_donation,,1,train,0
-1447,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1448,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1449,d64ceb4e,0,Київ,Чоловіча,Технічна,translation,ru,1,train,0
-1450,8cf88d77,1,Львівська,Жіноча,Технічна,translation,ru,1,train,0
 1451,54e2db54,1,Львівська,Чоловіча,Гуманітарна,translation,en,1,train,0
-1452,7b0f0261,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-1453,0a38cfd1,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1454,a6b77bda,1,Дніпропетровська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1455,067bfbae,1,Рівненська,Жіноча,Гуманітарна,translation,en,1,train,0
 1456,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1457,b090ab9f,1,Київ,Жіноча,Технічна,text_donation,,1,train,0
-1458,aa7b6a45,0,Донецька,Жіноча,Інше,translation,ru,1,train,0
 1459,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1460,83fbf949,1,Одеська,Чоловіча,Інше,translation,en,1,train,0
-1461,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
-1462,2281c029,1,Вінницька,Жіноча,Інше,translation,ru,1,train,0
 1463,d6953a98,1,Львівська,Жіноча,Інше,translation,en,1,train,0
 1464,cb87f84f,1,Київ,Жіноча,Інше,essay,,1,train,0
 1465,1ffc8be2,1,Полтавська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1466,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1467,afe0289c,1,Київ,Чоловіча,Інше,translation,ru,1,train,0
-1468,855e67c6,1,Житомирська,Жіноча,Інше,translation,ru,1,train,0
 1469,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1470,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1471,468a4856,1,Івано-Франківська,Чоловіча,Технічна,text_donation,,1,train,0
-1472,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
-1473,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1474,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1475,94df5252,1,Волинська,Жіноча,Інше,essay,,1,train,0
-1476,ef14be8f,1,Рівненська,Жіноча,Інше,translation,ru,1,train,0
 1477,626dfbe1,1,Донецька,Жіноча,Технічна,text_donation,,1,train,0
-1478,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1479,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1480,7b125545,0,Київ,Чоловіча,Технічна,translation,ru,1,train,0
-1481,0a158f06,0,Запорізька,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1482,c9780793,1,Івано-Франківська,Чоловіча,Природнича,translation,ru,1,train,0
 1483,dd573a1b,1,Львівська,Жіноча,Технічна,text_donation,,1,train,0
-1484,ab9a0f6b,1,Волинська,Жіноча,Інше,translation,ru,1,train,0
-1485,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1486,fc5c9041,1,Черкаська,Жіноча,Гуманітарна,translation,en,1,train,0
 1487,b86e2c59,1,Хмельницька,Жіноча,Інше,translation,en,1,train,0
 1488,066acc80,1,Львівська,Жіноча,Гуманітарна,translation,pl,1,train,0
-1489,73d5d843,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1490,28460af8,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 1491,067bfbae,1,Рівненська,Жіноча,Гуманітарна,translation,en,1,train,0
-1492,5e10abdc,1,Житомирська,Жіноча,Інше,translation,ru,1,train,0
-1493,132e49cf,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1494,28a240d5,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1495,d65bcd66,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1496,e459eb20,1,Вінницька,Жіноча,Інше,translation,ru,1,train,0
 1497,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1498,85043bd0,1,Миколаївська,Чоловіча,Інше,translation,ru,1,train,0
-1499,85043bd0,1,Миколаївська,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1500,8be05d29,0,Полтавська,Жіноча,Інше,translation,ru,1,train,0
-1501,c79f0ce5,1,Київська,Жіноча,Інше,translation,ru,1,train,0
 1502,b090ab9f,1,Київ,Жіноча,Технічна,text_donation,,1,train,0
-1503,6abad068,0,Луганська,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1504,9d284e14,1,Житомирська,Жіноча,Інше,translation,ru,1,train,0
-1505,740b9f16,1,Житомирська,Чоловіча,Технічна,translation,ru,1,train,0
 1506,c9859626,1,Вінницька,Чоловіча,Гуманітарна,translation,en,1,train,0
-1507,23f412b1,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1508,91a35c06,1,Львівська,Жіноча,Гуманітарна,translation,en,1,train,0
-1509,69d31487,0,Київ,Чоловіча,Інше,translation,ru,1,train,0
-1510,4bcd8193,0,Київ,Жіноча,Інше,translation,ru,1,train,0
-1511,aefbc98b,1,AP Крим,Жіноча,Гуманітарна,translation,ru,1,train,0
 1512,62c5b7bf,1,Київ,Інше,Інше,text_donation,,1,train,0
 1513,fdee18e7,1,Львівська,Жіноча,Інше,translation,en,1,train,0
 1514,bf281d2e,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
-1515,2cb265ca,0,Київ,Чоловіча,Інше,translation,ru,1,train,0
 1516,067bfbae,1,Рівненська,Жіноча,Гуманітарна,text_donation,,1,train,0
 1517,4c94c56d,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
 1518,32ef3761,0,Донецька,Жіноча,Інше,translation,en,1,train,0
-1519,c567de0b,0,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1520,d26d4fc6,1,Волинська,Жіноча,Інше,translation,ru,1,train,0
 1521,b090ab9f,1,Київ,Жіноча,Технічна,translation,en,1,train,0
-1522,2eee71f2,1,Київ,Жіноча,Технічна,translation,ru,1,train,0
 1523,067bfbae,1,Рівненська,Жіноча,Гуманітарна,translation,en,1,train,0
-1524,d3b8b480,1,Сумська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1525,fd182197,1,Хмельницька,Чоловіча,Інше,text_donation,,1,train,0
 1526,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1527,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1528,f38c235d,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1529,b4526448,1,Львівська,Жіноча,Технічна,translation,en,1,train,0
-1530,8191d9a3,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1531,4608f227,0,Київ,Жіноча,Інше,translation,en,1,train,0
 1532,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1533,fd182197,1,Хмельницька,Чоловіча,Інше,text_donation,,1,train,0
 1534,067bfbae,1,Рівненська,Жіноча,Гуманітарна,translation,de,1,train,0
-1535,a670b84c,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1536,0b90ecd8,0,Сумська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1537,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1538,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1539,2e98786e,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1540,9208494b,1,Київ,Чоловіча,Гуманітарна,translation,en,1,train,0
-1541,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
 1542,08045e65,1,Дніпропетровська,Жіноча,Гуманітарна,translation,en,1,train,0
 1543,3c860e82,1,Волинська,Чоловіча,Інше,translation,en,1,train,0
-1544,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
-1545,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1546,713b28b6,0,Дніпропетровська,Чоловіча,Технічна,translation,ru,1,train,0
-1547,eb7b6645,0,Дніпропетровська,Жіноча,Інше,translation,ru,1,train,0
 1548,a471ebc3,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1549,a471ebc3,1,Київ,Жіноча,Інше,translation,ru,1,train,0
 1550,a4f8d8e0,1,Дніпропетровська,Жіноча,Технічна,text_donation,,1,train,0
-1551,3d91e46d,0,Одеська,Жіноча,Інше,translation,ru,1,train,0
 1552,62c5b7bf,1,Київ,Інше,Інше,text_donation,,1,train,0
-1553,f785f50e,0,Дніпропетровська,Інше,Гуманітарна,translation,ru,1,train,0
 1554,438d997a,1,Волинська,Жіноча,Гуманітарна,translation,en,1,train,0
-1555,184feb5d,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1556,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1557,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1558,965e3649,1,Харківська,Чоловіча,Технічна,text_donation,,1,train,0
-1559,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1560,54f638de,1,Полтавська,Жіноча,Гуманітарна,text_donation,,1,train,0
 1561,b740ebf0,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
-1562,e2113849,0,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1563,670f2493,1,Київ,Жіноча,Інше,translation,ru,1,train,0
 1564,8f2b88d2,1,Вінницька,Жіноча,Гуманітарна,translation,en,1,train,0
-1565,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1566,438d997a,1,Волинська,Жіноча,Гуманітарна,translation,en,1,train,0
 1567,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1568,9208494b,1,Київ,Чоловіча,Гуманітарна,translation,en,1,train,0
 1569,3f144444,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1570,653fe0bd,1,Київ,Жіноча,Технічна,translation,ru,1,train,0
-1571,e2dbfcf5,1,Волинська,Жіноча,Технічна,translation,ru,1,train,0
-1572,2cb6ef33,0,Запорізька,Чоловіча,Інше,translation,ru,1,train,0
 1573,ea2f7d5a,1,Хмельницька,Жіноча,Гуманітарна,essay,,1,train,0
-1574,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
-1575,85d81e1d,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1576,e1938d3b,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1577,bb652a94,0,Дніпропетровська,Жіноча,Інше,translation,ru,1,train,0
-1578,23f412b1,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1579,76952b42,1,Чернігівська,Жіноча,Інше,translation,ru,1,train,0
 1580,a1254d02,1,Івано-Франківська,Жіноча,Природнича,translation,en,1,train,0
-1581,f87db435,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1582,ca4c8842,1,Чернігівська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1583,d12eccc8,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
-1584,055a309b,1,Київ,Жіноча,Інше,translation,ru,1,train,0
 1585,2281c029,1,Вінницька,Жіноча,Інше,essay,,1,train,0
-1586,23f412b1,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1587,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1588,9b175945,1,Львівська,Жіноча,Технічна,essay,,1,train,0
-1589,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1590,3c4a463b,1,Тернопільська,Жіноча,Інше,translation,en,1,train,0
 1591,96226406,0,Харківська,Жіноча,Інше,translation,en,1,train,0
-1592,22562e3c,1,Тернопільська,Жіноча,Інше,translation,ru,1,train,0
 1593,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1594,45b25382,0,AP Крим,Жіноча,Гуманітарна,translation,ru,1,train,0
-1595,30741fdf,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1596,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
 1597,12485963,1,Київ,Чоловіча,Технічна,translation,en,1,train,0
 1598,c9859626,1,Вінницька,Чоловіча,Гуманітарна,translation,en,1,train,0
-1599,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1600,a76f71d5,1,Тернопільська,Чоловіча,Технічна,translation,en,1 2,test,0
-1601,2e73a691,1,Полтавська,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1602,4769216f,1,Полтавська,Жіноча,Інше,translation,ru,1,train,0
 1603,9208494b,1,Київ,Чоловіча,Гуманітарна,translation,en,1,train,0
-1604,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1605,970f6f59,0,Харківська,Чоловіча,Технічна,translation,ru,1,train,0
 1606,96226406,0,Харківська,Жіноча,Інше,translation,en,1,train,0
-1607,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1608,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
-1609,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1610,f182423f,1,Житомирська,Чоловіча,Гуманітарна,translation,de,1,train,0
-1611,7999c979,1,Одеська,Жіноча,Інше,translation,ru,1,train,0
-1612,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1613,e921ca6e,1,Кіровоградська,Чоловіча,Гуманітарна,translation,ru,1,train,0
 1614,135e5687,1,Київ,Інше,Гуманітарна,translation,en,1,train,0
 1615,1e565b8d,1,Хмельницька,Жіноча,Інше,text_donation,,1,train,0
-1616,ef094a38,1,Львівська,Жіноча,Технічна,translation,ru,1,train,0
-1617,251d7792,0,Харківська,Жіноча,Технічна,translation,ru,1,train,0
-1618,2b5030e9,0,Київ,Жіноча,Інше,translation,ru,1,train,0
 1619,a4ec3119,1,Черкаська,Чоловіча,Гуманітарна,translation,de,1,train,0
 1620,4ec10e99,1,Закарпатська,Жіноча,Інше,translation,en,1,train,0
 1621,62c5b7bf,1,Київ,Інше,Інше,text_donation,,1,train,0
 1622,817d13cc,1,Закарпатська,Жіноча,Інше,text_donation,,1,train,0
-1623,eb7b6645,0,Дніпропетровська,Жіноча,Інше,translation,ru,1,train,0
-1624,aa9d8315,1,Львівська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1625,7ba781ad,1,Сумська,Жіноча,Гуманітарна,text_donation,,1,train,0
 1626,9382e09d,0,Київ,Жіноча,Технічна,text_donation,,1,train,0
-1627,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1628,8f2b88d2,1,Вінницька,Жіноча,Гуманітарна,essay,,1,train,0
-1629,2eee71f2,1,Київ,Жіноча,Технічна,translation,ru,1,train,0
-1630,85043bd0,1,Миколаївська,Чоловіча,Гуманітарна,translation,ru,1,train,0
 1631,a22f18a5,1,Одеська,Жіноча,Гуманітарна,essay,,1,train,0
 1632,45e704a3,1,Львівська,Жіноча,Гуманітарна,translation,en,1,train,0
-1633,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1634,8f2b88d2,1,Вінницька,Жіноча,Гуманітарна,essay,,1,train,0
-1635,cca2c106,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1636,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1637,8b44147b,1,Київ,Жіноча,Інше,translation,ru,1,train,0
 1638,b40b6be1,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1639,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
-1640,e2dbfcf5,1,Волинська,Жіноча,Технічна,translation,ru,1,train,0
-1641,8c03764c,1,Івано-Франківська,Чоловіча,Інше,translation,ru,1,train,0
 1642,54f638de,1,Полтавська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1643,85043bd0,1,Миколаївська,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1644,132e49cf,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1645,62c5b7bf,1,Київ,Інше,Інше,text_donation,,1,train,0
 1646,728b2e56,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-1647,94ac8f6b,1,Львівська,Жіноча,Гуманітарна,translation,ru,1 2,test,0
 1648,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 1649,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
 1650,fdee18e7,1,Львівська,Жіноча,Інше,translation,en,1,train,0
 1651,2060f338,1,Київ,Жіноча,Інше,text_donation,,1,train,0
 1652,498629a2,1,Дніпропетровська,Чоловіча,Технічна,text_donation,,1,train,0
-1653,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1654,f8c3e4e3,1,Луганська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1655,e658b091,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1656,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1657,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1658,22562e3c,1,Тернопільська,Жіноча,Інше,translation,en,1,train,0
-1659,6c706bce,1,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1660,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1661,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1662,3f144444,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1663,228f23ef,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1664,6d35116c,1,Львівська,Жіноча,Технічна,translation,en,1,train,0
 1665,e32211b2,1,Київська,Жіноча,Гуманітарна,translation,en,1,train,0
-1666,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1667,2060f338,1,Київ,Жіноча,Інше,text_donation,,1,train,0
 1668,539489e3,1,Київ,Жіноча,Інше,translation,en,1,train,0
-1669,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1670,8f2b88d2,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1671,539489e3,1,Київ,Жіноча,Інше,essay,,1,train,0
-1672,5b811852,0,Кіровоградська,Жіноча,Природнича,translation,ru,1,train,0
-1673,7c21e1f3,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1674,cfe25e92,1,Львівська,Чоловіча,Технічна,text_donation,,1,train,0
-1675,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1676,c7a8865d,1,Запорізька,Жіноча,Гуманітарна,text_donation,,1,train,0
-1677,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
 1678,71b7d373,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
 1679,bb07df65,1,Кіровоградська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1680,5afa6dde,1,Полтавська,Чоловіча,Технічна,translation,ru,1,train,0
-1681,810fe402,1,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1682,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
-1683,63d78f1d,0,Київ,Жіноча,Технічна,translation,ru,1,train,0
-1684,85043bd0,1,Миколаївська,Чоловіча,Інше,translation,ru,1,train,0
-1685,ee7ca228,1,Вінницька,Жіноча,Технічна,translation,ru,1,train,0
 1686,8cf88d77,1,Львівська,Жіноча,Технічна,essay,,1,train,0
-1687,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1688,1cbbae06,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 1689,f7981877,1,Львівська,Чоловіча,Інше,text_donation,,1,train,0
 1690,b090ab9f,1,Київ,Жіноча,Технічна,text_donation,,1,train,0
 1691,8b44147b,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1692,029db45d,1,Львівська,Жіноча,Технічна,translation,ru,1,train,0
 1693,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1694,1c48a883,1,Херсонська,Жіноча,Гуманітарна,translation,en,1,train,0
-1695,400e8e77,1,Київ,Чоловіча,Гуманітарна,translation,ru,1,train,0
 1696,f1cee5de,1,Чернівецька,Жіноча,Гуманітарна,translation,en,1,train,0
 1697,ac2b5aab,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
-1698,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1699,d794f77f,1,Івано-Франківська,Чоловіча,Інше,translation,ru,1,train,0
-1700,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1701,3e7d03f0,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1702,6abad068,0,Луганська,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1703,67211f18,0,Харківська,Жіноча,Інше,translation,ru,1,train,0
 1704,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1705,83886cde,0,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-1706,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1707,f2158d7f,0,Житомирська,Жіноча,Інше,translation,ru,1,train,0
 1708,6a309ec9,1,Рівненська,Жіноча,Технічна,text_donation,,1,train,0
-1709,e5747f4f,0,Запорізька,Жіноча,Інше,translation,ru,1,train,0
 1710,e1938d3b,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1711,7faa1c77,1,Тернопільська,Чоловіча,Технічна,translation,ru,1,train,0
 1712,85043bd0,1,Миколаївська,Чоловіча,Інше,essay,,1,train,0
-1713,94ac8f6b,1,Львівська,Жіноча,Гуманітарна,translation,ru,1 2,test,0
-1714,5b811852,0,Київ,Жіноча,Інше,translation,ru,1,train,0
-1715,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1716,c9859626,1,Вінницька,Чоловіча,Гуманітарна,translation,en,1,train,0
-1717,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1718,8eb15b56,1,Полтавська,Жіноча,Інше,translation,ru,1,train,0
-1719,8a2718bb,1,Тернопільська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1720,a9dd89ca,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 1721,ee2f3aa3,1,Харківська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-1722,ef14be8f,1,Рівненська,Жіноча,Інше,translation,ru,1,train,0
 1723,e09b3336,1,Львівська,Жіноча,Гуманітарна,translation,en,1,train,0
 1724,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1725,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1726,07b03a5a,0,Запорізька,Чоловіча,Технічна,translation,en,1,train,0
-1727,45499c1f,1,Черкаська,Жіноча,Інше,translation,ru,1,train,0
-1728,670f2493,1,Київ,Жіноча,Інше,translation,ru,1,train,0
-1729,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1730,ca31b6f2,1,Закарпатська,Жіноча,Технічна,text_donation,,1,train,0
 1731,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1732,ca31b6f2,1,Закарпатська,Жіноча,Технічна,text_donation,,1,train,0
 1733,a471ebc3,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1734,5667ffb0,1,Івано-Франківська,Чоловіча,Технічна,translation,ru,1,train,0
-1735,cf053a96,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1736,bb6b1e70,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1737,44c90713,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1738,b1925b1c,0,Київ,Жіноча,Технічна,translation,ru,1,train,0
-1739,8b44147b,1,Київ,Жіноча,Інше,translation,ru,1,train,0
 1740,4ce37dd2,1,Хмельницька,Жіноча,Гуманітарна,translation,en,1,train,0
 1741,cc105147,1,Київ,Чоловіча,Інше,translation,en,1,train,0
 1742,54e2db54,1,Львівська,Чоловіча,Гуманітарна,translation,en,1,train,0
 1743,3f144444,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
-1744,10428fe8,0,Чернівецька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1745,066acc80,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1746,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1747,ec07db31,0,Дніпропетровська,Жіноча,Технічна,text_donation,,1,train,0
-1748,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1749,421f9537,1,Львівська,Жіноча,Інше,translation,ru,1,train,0
 1750,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1751,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1752,8ed107e9,1,Донецька,Жіноча,Інше,translation,ru,1,train,0
-1753,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1754,cd400be2,1,Житомирська,Жіноча,Гуманітарна,translation,en,1,train,0
 1755,4ec10e99,1,Закарпатська,Жіноча,Інше,essay,,1,train,0
-1756,228f23ef,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1757,d17ccfb6,1,Закарпатська,Жіноча,Гуманітарна,translation,en,1,train,0
 1758,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1759,1ffc8be2,1,Полтавська,Жіноча,Гуманітарна,text_donation,,1,train,0
 1760,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1761,1e565b8d,1,Хмельницька,Жіноча,Інше,text_donation,,1,train,0
 1762,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,en,1,train,0
-1763,23f412b1,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1764,5667ffb0,1,Івано-Франківська,Чоловіча,Технічна,translation,ru,1,train,0
-1765,014d62ec,1,Київ,Жіноча,Технічна,translation,ru,1,train,0
-1766,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1767,c9780793,1,Івано-Франківська,Чоловіча,Природнича,translation,ru,1,train,0
 1768,28460af8,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1769,899c6ca4,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1770,8f1312c1,1,Київ,Жіноча,Інше,translation,en,1,train,0
-1771,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
 1772,a40b766e,1,Київ,Жіноча,Інше,translation,en,1,train,0
-1773,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1774,e8d5feb3,1,Полтавська,Чоловіча,Інше,translation,ru,1,train,0
 1775,141e6b0e,1,Київ,Жіноча,Інше,essay,,1,train,0
 1776,a91b95c5,1,Луганська,Жіноча,Гуманітарна,essay,,1,train,0
-1777,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1778,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1779,a9b1404d,1,Київська,Чоловіча,Технічна,translation,ru,1,train,0
-1780,2281c029,1,Вінницька,Жіноча,Інше,translation,ru,1,train,0
 1781,055a309b,1,Київ,Жіноча,Інше,essay,,1,train,0
-1782,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1783,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1784,f872a377,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1785,067bfbae,1,Рівненська,Жіноча,Гуманітарна,translation,en,1,train,0
 1786,fd182197,1,Хмельницька,Чоловіча,Інше,text_donation,,1,train,0
 1787,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1788,f8c3e4e3,1,Луганська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1789,2e120747,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1790,3dfd9fdd,0,Київ,Жіноча,Інше,translation,ru,1,train,0
 1791,a471ebc3,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1792,12b4d302,1,Київська,Жіноча,Інше,translation,ru,1,train,0
-1793,2e98786e,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1794,3e7d03f0,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1795,626dfbe1,1,Донецька,Жіноча,Технічна,text_donation,,1,train,0
 1796,83886cde,0,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-1797,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1798,fc09aa2f,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 1799,a76f71d5,1,Тернопільська,Чоловіча,Природнича,text_donation,,1 2,test,0
 1800,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1801,9fdc0af9,1,Львівська,Жіноча,Гуманітарна,text_donation,,1,train,0
 1802,ca31b6f2,1,Закарпатська,Жіноча,Технічна,text_donation,,1,train,0
-1803,a6b77bda,1,Дніпропетровська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1804,23f412b1,1,Івано-Франківська,Жіноча,Гуманітарна,essay,,1,train,0
-1805,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1806,f3611669,1,Житомирська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1807,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1808,62f0bef2,1,Львівська,Жіноча,Інше,translation,en,1,train,0
 1809,c648f7a9,1,Київ,Жіноча,Інше,translation,en,1,train,0
-1810,13c9e259,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1811,4a1553a1,1,Тернопільська,Чоловіча,Гуманітарна,translation,ru,1,train,0
-1812,ff49a10c,0,Житомирська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1813,4f303ef9,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1814,ae9567cb,1,Херсонська,Жіноча,Технічна,translation,ru,1,train,0
-1815,8a530ffd,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1816,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1817,1e565b8d,1,Хмельницька,Жіноча,Інше,text_donation,,1,train,0
 1818,626dfbe1,1,Донецька,Жіноча,Технічна,text_donation,,1,train,0
-1819,23f412b1,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1820,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1821,ca31b6f2,1,Закарпатська,Жіноча,Технічна,text_donation,,1,train,0
 1822,a394be19,0,Полтавська,Жіноча,Природнича,translation,en,1,train,0
-1823,dd957def,1,Закарпатська,Чоловіча,Гуманітарна,translation,ru,1,train,0
 1824,3d5fc1c5,1,Чернігівська,Жіноча,Технічна,text_donation,,1,train,0
-1825,8be05d29,0,Полтавська,Жіноча,Інше,translation,ru,1,train,0
 1826,f182423f,1,Житомирська,Чоловіча,Гуманітарна,translation,de,1,train,0
-1827,3f144444,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1828,a19b9cc1,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1829,a4ea6300,1,Львівська,Жіноча,Гуманітарна,essay,,1,train,0
-1830,45499c1f,1,Черкаська,Жіноча,Інше,translation,ru,1,train,0
-1831,f64ccb77,1,Київ,Чоловіча,Природнича,translation,ru,1,train,0
 1832,378227bd,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
-1833,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1834,d21bb49b,1,Львівська,Чоловіча,Природнича,translation,en,1,train,0
-1835,23f412b1,1,Івано-Франківська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1836,2281c029,1,Вінницька,Жіноча,Інше,translation,ru,1,train,0
 1837,0a681827,1,Київська,Жіноча,Гуманітарна,translation,de,1,train,0
-1838,a38b4b82,1,Запорізька,Жіноча,Інше,translation,ru,1,train,0
 1839,13c9e259,1,Вінницька,Жіноча,Гуманітарна,text_donation,,1,train,0
 1840,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1841,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1842,b90dccfd,1,Черкаська,Жіноча,Технічна,translation,ru,1,train,0
 1843,2e98786e,1,Київська,Жіноча,Гуманітарна,translation,en,1,train,0
-1844,8a2718bb,1,Тернопільська,Жіноча,Природнича,translation,ru,1,train,0
-1845,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1846,1e565b8d,1,Хмельницька,Жіноча,Інше,text_donation,,1,train,0
-1847,8be05d29,1,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1848,4637016a,1,Полтавська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1849,886546ba,1,Тернопільська,Чоловіча,Технічна,translation,en,1,train,0
-1850,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1851,fd182197,1,Хмельницька,Чоловіча,Інше,translation,ru,1,train,0
 1852,ee2f3aa3,1,Харківська,Чоловіча,Гуманітарна,text_donation,,1,train,0
-1853,3f144444,1,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
 1854,43c1aebb,1,Інше,Жіноча,Технічна,translation,en,1,train,0
 1855,eb7b6645,0,Дніпропетровська,Жіноча,Інше,translation,en,1,train,0
 1856,83886cde,0,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 1857,e1938d3b,1,Київ,Жіноча,Інше,text_donation,,1,train,0
-1858,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
 1859,bbdc777e,1,Київ,Жіноча,Гуманітарна,translation,de,1,train,0
 1860,378227bd,1,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 1861,5183ca1d,1,Київ,Чоловіча,Технічна,essay,,1,train,0
-1862,1b483eb6,1,Одеська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1863,a3378444,1,Львівська,Чоловіча,Інше,translation,ru,1,train,0
-1864,561aa3aa,1,Вінницька,Жіноча,Гуманітарна,translation,ru,1,train,0
-1865,f87db435,0,Київ,Жіноча,Гуманітарна,translation,ru,1,train,0
-1866,b98e2ae1,1,Чернівецька,Жіноча,Інше,translation,ru,1,train,0
-1867,e4213df4,0,Київ,Жіноча,Інше,translation,ru,1,train,0
 1868,3f144444,1,Київ,Жіноча,Гуманітарна,translation,en,1,train,0
 1869,1f8f2b55,0,Київ,Жіноча,Інше,translation,en,1,train,0
-1870,45f1691a,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1871,7e9573c2,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1873,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1874,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1875,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
