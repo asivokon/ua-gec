@@ -48,6 +48,48 @@ class CorpusStatistics:
                 print(f"{key:<30} {value}")
             print()
 
+    def print_tables(self):
+        self._error_types_table()
+
+    def _error_types_table(self):
+        stats = self.stats["Number of errors (by 2 annotators)"]
+        total_errors = stats["TOTAL"]
+        all_docs = self.corpus.get_documents()  # annotated by all annotators
+        total_tokens = sum(self.count_tokens(doc) for doc in all_docs)
+
+        # header
+        print(r"""\begin{table}[ht]
+\centering
+\begin{tabular}{lrcc}
+\hline \textbf{Error type} & \textbf{Total}  & \textbf{\%} & \textbf{\raisebox{4pt}[13pt][8pt]{\vtop{\hbox{Per 1000}\hbox{tokens}}}} \\ \hline""")
+
+        def print_row(error_type, count):
+            pct = count / total_errors * 100
+            per_1000_tokens = count / total_tokens * 1000
+            print(f"{error_type:<30} & {count:>6,} & {pct:.1f} & {per_1000_tokens:.1f} \\\\")
+
+
+        # high-level categories
+        hl_fluency = sum(value for key, value in stats.items() if key.startswith("F/"))
+        hl_grammar = sum(value for key, value in stats.items() if key.startswith("G/"))
+        print_row("Grammar (all)", hl_grammar)
+        print_row("Fluency (all)", hl_fluency)
+        print_row("Spelling", stats["Spelling"])
+        print_row("Punctuation", stats["Punctuation"])
+        print(r"\hline")
+
+        # detailed categories
+        for key, value in sorted(stats.items()):
+            if key in ("Spelling", "Punctuation"):
+                continue
+            print_row(key, value)
+
+        # footer
+        print(r"""\hline
+\end{tabular}
+\caption{\label{error-categories} Error distribution by category }
+\end{table}""")
+
     @cache
     def count_source_sentences(self, doc):
         with open(f"./data/{self.layer}/{doc.meta.partition}/source-sentences-tokenized/{doc.doc_id}.src.txt") as f:
@@ -100,12 +142,18 @@ def main(args):
     from ua_gec import Corpus
     corpus = Corpus(args.partition, args.layer)
     stats = CorpusStatistics(corpus)
-    stats.pretty_print()
+
+    if not args.tables:
+        stats.pretty_print()
+    else:
+        stats.print_tables()
+
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("partition", choices=["all", "train", "test"])
     parser.add_argument("layer", choices=["gec-fluency", "gec-only"])
+    parser.add_argument("--tables", action="store_true", help="Print latex tables")
     args = parser.parse_args()
     main(args)
