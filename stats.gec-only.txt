@@ -54,6 +54,11 @@ fr                             {'Documents': 7, 'Sentences': 91, 'Tokens': 1052,
 pl                             {'Documents': 12, 'Sentences': 172, 'Tokens': 2131, 'Unique users': 12}
 ru                             {'Documents': 598, 'Sentences': 7631, 'Tokens': 109733, 'Unique users': 301}
 
+# Error rate
+Total errors                   35321
+Total tokens                   563045
+Error rate                     0.06273210844603895
+
 # Number of errors (by 2 annotators)
 G/Aspect                       93
 G/Case                         2488
@@ -70,9 +75,9 @@ G/Tense                        220
 G/UngrammaticalStructure       1048
 G/VerbAForm                    52
 G/VerbVoice                    284
-Punctuation                    19881
+Punctuation                    19880
 Spelling                       8843
-TOTAL                          35322
+TOTAL                          35321
 
 # Total
 All                            {'Documents': 1872, 'Sentences': 33733, 'Tokens': 500619, 'Unique users': 828}

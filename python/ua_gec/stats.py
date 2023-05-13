@@ -27,6 +27,7 @@ class CorpusStatistics:
         self.stats["By submission type"] = self._breakdown(docs, "submission_type")
         self.stats["By translation lang"] = self._breakdown(docs, "source_language")
         self.stats["Number of errors (by 2 annotators)"] = self._count_errors(all_docs)
+        self.stats["Error rate"] = self._error_rate(all_docs)
         del self.stats['By translation lang']['']
 
     def _subset_stats(self, docs):
@@ -136,6 +137,25 @@ class CorpusStatistics:
                     continue
                 errors["TOTAL"] += 1
         return dict(sorted(errors.items()))
+    
+    def _error_rate(self, docs):
+        """Compute average number of errors per token.
+
+        When a document is annotated with two annotators, take average of the two.
+        """
+
+        total_errors = 0
+        total_tokens = 0
+        for doc in docs:
+            total_errors += len(doc.annotated.get_annotations())
+            total_tokens += self.count_tokens(doc)
+
+        return {
+            "Total errors": total_errors,
+            "Total tokens": total_tokens,
+            "Error rate": round(total_errors / total_tokens, 4),
+        }
+
 
 
 def main(args):
