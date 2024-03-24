@@ -23,6 +23,13 @@ m2:
 	./scripts/make_m2.py --partition train --layer gec-fluency --output data/gec-fluency/train/gec-fluency.train.m2
 	./scripts/make_m2.py --partition train --layer gec-only --output data/gec-only/train/gec-only.train.m2
 
+split-sentences: # m2
+	./scripts/m2_to_annotated.py ./data/gec-only/test/gec-only.test.m2 	   -o ./data/gec-only/test/gec-only.test.annotated
+	./scripts/m2_to_annotated.py --ignore-errors ./data/gec-only/train/gec-only.train.m2 	   -o  ./data/gec-only/train/gec-only.train.annotated
+	./scripts/m2_to_annotated.py ./data/gec-fluency/test/gec-fluency.test.m2   -o  ./data/gec-fluency/test/gec-fluency.test.annotated
+	./scripts/m2_to_annotated.py ./data/gec-fluency/train/gec-fluency.train.m2 -o  ./data/gec-fluency/train/gec-fluency.train.annotated
+
+
 stats:
 	./python/ua_gec/stats.py all gec-fluency | tee stats.gec-fluency.txt
 	./python/ua_gec/stats.py all gec-only | tee stats.gec-only.txt
